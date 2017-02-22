@@ -1,0 +1,531 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=        Tuberous Sclerosis Brian Fagan, M.D.
+1-1	Tuberous	B-RADLEX|B-RADLEX
+1-2	Sclerosis	I-RADLEX|B-RADLEX
+1-3	Brian	O
+1-4	Fagan	O
+1-5	,	O
+1-6	M	O
+1-7	.	O
+1-8	D	O
+1-9	.	O
+
+#id=2
+#text=Francine Kim, M.D.Children's Memorial Hospital  Abstract 3 mo.
+2-1	Francine	O
+2-2	Kim	O
+2-3	,	O
+2-4	M	O
+2-5	.	O
+2-6	D	O
+2-7	.	O
+2-8	Children	O
+2-9	'	O
+2-10	s	O
+2-11	Memorial	O
+2-12	Hospital	O
+2-13	Abstract	O
+2-14	3	O
+2-15	mo	B-RADLEX
+2-16	.	O
+
+#id=3
+#text=old male with seizures Keywords  Tuberous Sclerosis, MRI, brain    			Publication Date: 2004-05-19                History 3 mo.
+3-1	old	B-RADLEX
+3-2	male	B-RADLEX
+3-3	with	O
+3-4	seizures	B-RADLEX
+3-5	Keywords	O
+3-6	Tuberous	B-RADLEX|B-RADLEX
+3-7	Sclerosis	I-RADLEX|B-RADLEX
+3-8	,	O
+3-9	MRI	B-RADLEX
+3-10	,	O
+3-11	brain	B-RADLEX
+3-12	Publication	O
+3-13	Date	O
+3-14	:	O
+3-15	2004	O
+3-16	-	O
+3-17	05	O
+3-18	-	O
+3-19	19	O
+3-20	History	O
+3-21	3	O
+3-22	mo	B-RADLEX
+3-23	.	O
+
+#id=4
+#text=old male with seizures   Findings  T1 weighted images demonstrate bilateral hyperintense subependymal nodules, the largest adjacent to the left Foramen of Monro.
+4-1	old	B-RADLEX
+4-2	male	B-RADLEX
+4-3	with	O
+4-4	seizures	B-RADLEX
+4-5	Findings	O
+4-6	T1	B-RADLEX|B-RADLEX|B-RADLEX
+4-7	weighted	I-RADLEX
+4-8	images	O
+4-9	demonstrate	O
+4-10	bilateral	B-RADLEX
+4-11	hyperintense	B-RADLEX
+4-12	subependymal	O
+4-13	nodules	B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+4-14	,	O
+4-15	the	O
+4-16	largest	O
+4-17	adjacent	B-RADLEX
+4-18	to	O
+4-19	the	O
+4-20	left	B-RADLEX
+4-21	Foramen	B-RADLEX|B-RADLEX
+4-22	of	I-RADLEX
+4-23	Monro	I-RADLEX
+4-24	.	O
+
+#id=5
+#text=There are also multiple foci of hyperintensity within the subcortical and deep white matter.
+5-1	There	O
+5-2	are	O
+5-3	also	O
+5-4	multiple	B-RADLEX
+5-5	foci	B-RADLEX
+5-6	of	O
+5-7	hyperintensity	O
+5-8	within	O
+5-9	the	O
+5-10	subcortical	B-RADLEX
+5-11	and	O
+5-12	deep	B-RADLEX
+5-13	white	B-RADLEX|B-RADLEX
+5-14	matter	I-RADLEX
+5-15	.	O
+
+#id=6
+#text=T2 weighted images demonstrate an area of cortical thickening and abnormal low signal within the anterior right temporal lobe.
+6-1	T2	B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+6-2	weighted	I-RADLEX|I-RADLEX
+6-3	images	O
+6-4	demonstrate	O
+6-5	an	O
+6-6	area	O
+6-7	of	O
+6-8	cortical	B-RADLEX
+6-9	thickening	B-RADLEX
+6-10	and	O
+6-11	abnormal	B-RADLEX
+6-12	low	B-RADLEX
+6-13	signal	O
+6-14	within	O
+6-15	the	O
+6-16	anterior	B-RADLEX
+6-17	right	B-RADLEX|B-RADLEX
+6-18	temporal	I-RADLEX|B-RADLEX
+6-19	lobe	I-RADLEX|I-RADLEX|B-RADLEX
+6-20	.	O
+
+#id=7
+#text=   Diagnosis  Tuberous Sclerosis    Differential For T1 hyperintense subependymal nodules: Germinal Matrix Hemorrhage.
+7-1	Diagnosis	B-RADLEX
+7-2	Tuberous	B-RADLEX|B-RADLEX
+7-3	Sclerosis	I-RADLEX|B-RADLEX
+7-4	Differential	O
+7-5	For	O
+7-6	T1	B-RADLEX|B-RADLEX
+7-7	hyperintense	B-RADLEX
+7-8	subependymal	O
+7-9	nodules	B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+7-10	:	O
+7-11	Germinal	O
+7-12	Matrix	O
+7-13	Hemorrhage	B-RADLEX
+7-14	.	O
+
+#id=8
+#text=For cortical thickening with abnormal signal: Cortical dysplasia.
+8-1	For	O
+8-2	cortical	B-RADLEX
+8-3	thickening	B-RADLEX
+8-4	with	O
+8-5	abnormal	B-RADLEX
+8-6	signal	O
+8-7	:	O
+8-8	Cortical	O
+8-9	dysplasia	B-RADLEX
+8-10	.	O
+
+#id=9
+#text=The constellation of findings is specific for Tuberous Sclerosis     Discussion  Tuberous Sclerosis is an autosomal dominant disorder with variable expressivity that demonstrates hamartomatous growths in multiple organ systems.
+9-1	The	O
+9-2	constellation	O
+9-3	of	O
+9-4	findings	O
+9-5	is	O
+9-6	specific	O
+9-7	for	O
+9-8	Tuberous	B-RADLEX|B-RADLEX
+9-9	Sclerosis	I-RADLEX|B-RADLEX
+9-10	Discussion	O
+9-11	Tuberous	B-RADLEX|B-RADLEX
+9-12	Sclerosis	I-RADLEX|B-RADLEX
+9-13	is	O
+9-14	an	O
+9-15	autosomal	O
+9-16	dominant	O
+9-17	disorder	O
+9-18	with	O
+9-19	variable	O
+9-20	expressivity	O
+9-21	that	O
+9-22	demonstrates	O
+9-23	hamartomatous	O
+9-24	growths	B-RADLEX
+9-25	in	O
+9-26	multiple	B-RADLEX
+9-27	organ	B-RADLEX|B-RADLEX
+9-28	systems	I-RADLEX
+9-29	.	O
+
+#id=10
+#text=The classic clinical triad of seizures, adenoma sebaceum and mental retardation is found in less than half of the patients.
+10-1	The	O
+10-2	classic	O
+10-3	clinical	O
+10-4	triad	O
+10-5	of	O
+10-6	seizures	B-RADLEX
+10-7	,	O
+10-8	adenoma	B-RADLEX
+10-9	sebaceum	O
+10-10	and	O
+10-11	mental	B-RADLEX
+10-12	retardation	I-RADLEX
+10-13	is	O
+10-14	found	O
+10-15	in	O
+10-16	less	O
+10-17	than	O
+10-18	half	O
+10-19	of	O
+10-20	the	O
+10-21	patients	B-RADLEX
+10-22	.	O
+
+#id=11
+#text=Therefore radiologic findings are very important in making the diagnosis.
+11-1	Therefore	O
+11-2	radiologic	O
+11-3	findings	O
+11-4	are	O
+11-5	very	O
+11-6	important	O
+11-7	in	O
+11-8	making	O
+11-9	the	O
+11-10	diagnosis	B-RADLEX
+11-11	.	O
+
+#id=12
+#text=There are four major categories of intracranial lesions: 1.
+12-1	There	O
+12-2	are	O
+12-3	four	O
+12-4	major	B-RADLEX
+12-5	categories	O
+12-6	of	O
+12-7	intracranial	B-RADLEX
+12-8	lesions	B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+12-9	:	O
+12-10	1	O
+12-11	.	O
+
+#id=13
+#text=Cortical Tubers are cortical hamartomas found in 95% of patients with tuberous sclerosis.
+13-1	Cortical	B-RADLEX
+13-2	Tubers	B-RADLEX|B-RADLEX
+13-3	are	I-RADLEX
+13-4	cortical	I-RADLEX
+13-5	hamartomas	I-RADLEX|B-RADLEX
+13-6	found	I-RADLEX
+13-7	in	I-RADLEX
+13-8	95	I-RADLEX
+13-9	%	I-RADLEX
+13-10	of	I-RADLEX
+13-11	patients	I-RADLEX|B-RADLEX
+13-12	with	I-RADLEX
+13-13	tuberous	I-RADLEX
+13-14	sclerosis	I-RADLEX|B-RADLEX
+13-15	.	O
+
+#id=14
+#text=These demonstrate abnormally thick cortex and T1 hyperintensity and T2 hypointensity to premyelinated white matter in neonates and infants.
+14-1	These	O
+14-2	demonstrate	O
+14-3	abnormally	O
+14-4	thick	B-RADLEX
+14-5	cortex	B-RADLEX
+14-6	and	O
+14-7	T1	B-RADLEX|B-RADLEX
+14-8	hyperintensity	B-RADLEX|B-RADLEX
+14-9	and	I-RADLEX
+14-10	T2	I-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+14-11	hypointensity	I-RADLEX|B-RADLEX
+14-12	to	O
+14-13	premyelinated	O
+14-14	white	B-RADLEX|B-RADLEX
+14-15	matter	I-RADLEX
+14-16	in	O
+14-17	neonates	B-RADLEX|B-RADLEX
+14-18	and	O
+14-19	infants	B-RADLEX
+14-20	.	O
+
+#id=15
+#text=In older children and adults the lesions are iso/hypointense on T1 images and hyperintense on T2 images.
+15-1	In	O
+15-2	older	O
+15-3	children	O
+15-4	and	O
+15-5	adults	B-RADLEX
+15-6	the	O
+15-7	lesions	B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+15-8	are	O
+15-9	iso	O
+15-10	/	O
+15-11	hypointense	B-RADLEX
+15-12	on	O
+15-13	T1	B-RADLEX|B-RADLEX
+15-14	images	O
+15-15	and	O
+15-16	hyperintense	B-RADLEX|B-RADLEX
+15-17	on	I-RADLEX
+15-18	T2	I-RADLEX|B-RADLEX|B-RADLEX
+15-19	images	O
+15-20	.	O
+
+#id=16
+#text= 2.
+16-1	2	O
+16-2	.	O
+
+#id=17
+#text=White matter abnormalities in a number of different patterns are usually identified.
+17-1	White	B-RADLEX|B-RADLEX
+17-2	matter	I-RADLEX
+17-3	abnormalities	B-RADLEX
+17-4	in	O
+17-5	a	O
+17-6	number	O
+17-7	of	O
+17-8	different	O
+17-9	patterns	O
+17-10	are	O
+17-11	usually	O
+17-12	identified	O
+17-13	.	O
+
+#id=18
+#text=Like the cortical tubers these are usually hyperintense on T1WI and hypointense on T2WI in infants and iso/hypointense on T1WI and hyperintense on T2WI in older children and adults.
+18-1	Like	O
+18-2	the	O
+18-3	cortical	B-RADLEX
+18-4	tubers	B-RADLEX
+18-5	these	O
+18-6	are	O
+18-7	usually	O
+18-8	hyperintense	B-RADLEX
+18-9	on	O
+18-10	T1WI	O
+18-11	and	O
+18-12	hypointense	B-RADLEX
+18-13	on	O
+18-14	T2WI	O
+18-15	in	O
+18-16	infants	B-RADLEX
+18-17	and	O
+18-18	iso	O
+18-19	/	O
+18-20	hypointense	B-RADLEX
+18-21	on	O
+18-22	T1WI	O
+18-23	and	O
+18-24	hyperintense	B-RADLEX
+18-25	on	O
+18-26	T2WI	O
+18-27	in	O
+18-28	older	O
+18-29	children	O
+18-30	and	O
+18-31	adults	B-RADLEX
+18-32	.	O
+
+#id=19
+#text= 3.
+19-1	3	O
+19-2	.	O
+
+#id=20
+#text=Subependymal nodules are subependymal hamartomas found in 95% of patients with Tuberous Sclerosis.
+20-1	Subependymal	O
+20-2	nodules	B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+20-3	are	O
+20-4	subependymal	O
+20-5	hamartomas	B-RADLEX
+20-6	found	O
+20-7	in	O
+20-8	95	O
+20-9	%	O
+20-10	of	O
+20-11	patients	B-RADLEX
+20-12	with	O
+20-13	Tuberous	B-RADLEX|B-RADLEX
+20-14	Sclerosis	I-RADLEX|B-RADLEX
+20-15	.	O
+
+#id=21
+#text=Most are located adjacent to the caudate nucleus just behind the foramen of Monro.
+21-1	Most	O
+21-2	are	O
+21-3	located	O
+21-4	adjacent	B-RADLEX
+21-5	to	O
+21-6	the	O
+21-7	caudate	B-RADLEX
+21-8	nucleus	I-RADLEX
+21-9	just	O
+21-10	behind	O
+21-11	the	O
+21-12	foramen	B-RADLEX|B-RADLEX
+21-13	of	I-RADLEX
+21-14	Monro	I-RADLEX
+21-15	.	O
+
+#id=22
+#text=These are typically hyperintense on T1WI and have variable signal on T2WI as they may calcify.
+22-1	These	O
+22-2	are	O
+22-3	typically	O
+22-4	hyperintense	B-RADLEX
+22-5	on	O
+22-6	T1WI	O
+22-7	and	O
+22-8	have	O
+22-9	variable	O
+22-10	signal	O
+22-11	on	O
+22-12	T2WI	O
+22-13	as	O
+22-14	they	O
+22-15	may	O
+22-16	calcify	O
+22-17	.	O
+
+#id=23
+#text=Enhancement may be present and does not necessarily indicate neosplatic transformation.
+23-1	Enhancement	B-RADLEX
+23-2	may	O
+23-3	be	O
+23-4	present	B-RADLEX
+23-5	and	O
+23-6	does	O
+23-7	not	O
+23-8	necessarily	O
+23-9	indicate	O
+23-10	neosplatic	O
+23-11	transformation	O
+23-12	.	O
+
+#id=24
+#text= 4.
+24-1	4	O
+24-2	.	O
+
+#id=25
+#text=Subependymal giant cell tumors are present in 15% of patients with tuberous sclerosis.
+25-1	Subependymal	O
+25-2	giant	B-RADLEX|B-RADLEX
+25-3	cell	I-RADLEX|B-RADLEX
+25-4	tumors	I-RADLEX|B-RADLEX
+25-5	are	O
+25-6	present	B-RADLEX
+25-7	in	O
+25-8	15	O
+25-9	%	O
+25-10	of	O
+25-11	patients	B-RADLEX
+25-12	with	O
+25-13	tuberous	B-RADLEX|B-RADLEX
+25-14	sclerosis	I-RADLEX|B-RADLEX
+25-15	.	O
+
+#id=26
+#text=These are histologically benign tumors that enlarge over time.
+26-1	These	O
+26-2	are	O
+26-3	histologically	O
+26-4	benign	B-RADLEX
+26-5	tumors	B-RADLEX
+26-6	that	O
+26-7	enlarge	O
+26-8	over	O
+26-9	time	O
+26-10	.	O
+
+#id=27
+#text=Usually they are located adjacent to the foramen of Monro and may cause obstructive hydrocephalus.
+27-1	Usually	O
+27-2	they	O
+27-3	are	O
+27-4	located	O
+27-5	adjacent	B-RADLEX
+27-6	to	O
+27-7	the	O
+27-8	foramen	B-RADLEX|B-RADLEX
+27-9	of	I-RADLEX
+27-10	Monro	I-RADLEX
+27-11	and	O
+27-12	may	O
+27-13	cause	O
+27-14	obstructive	B-RADLEX
+27-15	hydrocephalus	I-RADLEX|B-RADLEX
+27-16	.	O
+
+#id=28
+#text=They demonstrate intense but sometimes inhomogeneous enhancement and may calcify.
+28-1	They	O
+28-2	demonstrate	O
+28-3	intense	O
+28-4	but	O
+28-5	sometimes	O
+28-6	inhomogeneous	B-RADLEX
+28-7	enhancement	B-RADLEX
+28-8	and	O
+28-9	may	O
+28-10	calcify	O
+28-11	.	O
+
+#id=29
+#text=   References  Anne G.
+29-1	References	O
+29-2	Anne	O
+29-3	G	O
+29-4	.	O
+
+#id=30
+#text=Osborn;  Diagnostic Radiology, 1994, Chapter 5, Pages 93-98      8 images               					  					 					  					        .
+30-1	Osborn	O
+30-2	;	O
+30-3	Diagnostic	B-RADLEX
+30-4	Radiology	O
+30-5	,	O
+30-6	1994	O
+30-7	,	O
+30-8	Chapter	O
+30-9	5	O
+30-10	,	O
+30-11	Pages	O
+30-12	93	O
+30-13	-	O
+30-14	98	O
+30-15	8	O
+30-16	images	O

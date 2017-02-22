@@ -1,0 +1,247 @@
+#FORMAT=WebAnno TSV 3
+
+
+#Text=Ollier ' s Disease Larry Chen Mary Wyers , M . D .
+1-1	0-6	Ollier	
+1-2	7-8	'	
+1-3	9-10	s	
+1-4	11-18	Disease	
+1-5	19-24	Larry	
+1-6	25-29	Chen	
+1-7	30-34	Mary	
+1-8	35-40	Wyers	
+1-9	41-42	,	
+1-10	43-44	M	
+1-11	45-46	.	
+1-12	47-48	D	
+1-13	49-50	.	
+
+#Text=Children ' s Memorial Hospital Abstract 4 yo male with hand deformity Keywords Ollier ' s Disease , enchondroma Publication Date : 2004 - 06 - 16 History 4 yo male with hand deformity Findings PA view of the hand : Lytic partially calcified lesions of the proximal phalanges of the thumb and first finger with associated deformity .
+2-1	51-59	Children	
+2-2	60-61	'	
+2-3	62-63	s	
+2-4	64-72	Memorial	
+2-5	73-81	Hospital	
+2-6	82-90	Abstract	
+2-7	91-92	4	
+2-8	93-95	yo	
+2-9	96-100	male	
+2-10	101-105	with	
+2-11	106-110	hand	
+2-12	111-120	deformity	
+2-13	121-129	Keywords	
+2-14	130-136	Ollier	
+2-15	137-138	'	
+2-16	139-140	s	
+2-17	141-148	Disease	
+2-18	149-150	,	
+2-19	151-162	enchondroma	
+2-20	163-174	Publication	
+2-21	175-179	Date	
+2-22	180-181	:	
+2-23	182-186	2004	
+2-24	187-188	-	
+2-25	189-191	06	
+2-26	192-193	-	
+2-27	194-196	16	
+2-28	197-204	History	
+2-29	205-206	4	
+2-30	207-209	yo	
+2-31	210-214	male	
+2-32	215-219	with	
+2-33	220-224	hand	
+2-34	225-234	deformity	
+2-35	235-243	Findings	
+2-36	244-246	PA	
+2-37	247-251	view	
+2-38	252-254	of	
+2-39	255-258	the	
+2-40	259-263	hand	
+2-41	264-265	:	
+2-42	266-271	Lytic	
+2-43	272-281	partially	
+2-44	282-291	calcified	
+2-45	292-299	lesions	
+2-46	300-302	of	
+2-47	303-306	the	
+2-48	307-315	proximal	
+2-49	316-325	phalanges	
+2-50	326-328	of	
+2-51	329-332	the	
+2-52	333-338	thumb	
+2-53	339-342	and	
+2-54	343-348	first	
+2-55	349-355	finger	
+2-56	356-360	with	
+2-57	361-371	associated	
+2-58	372-381	deformity	
+2-59	382-383	.	
+
+#Text=There is also a lesion in the proximal radial metaphysis .
+3-1	384-389	There	
+3-2	390-392	is	
+3-3	393-397	also	
+3-4	398-399	a	
+3-5	400-406	lesion	
+3-6	407-409	in	
+3-7	410-413	the	
+3-8	414-422	proximal	
+3-9	423-429	radial	
+3-10	430-440	metaphysis	
+3-11	441-442	.	
+
+#Text=Diagnosis Ollier ' s Disease Discussion The syndrome of multiple enchondromas or enchondromatosis is known as Ollier disease .
+4-1	443-452	Diagnosis	
+4-2	453-459	Ollier	
+4-3	460-461	'	
+4-4	462-463	s	
+4-5	464-471	Disease	
+4-6	472-482	Discussion	
+4-7	483-486	The	
+4-8	487-495	syndrome	
+4-9	496-498	of	
+4-10	499-507	multiple	
+4-11	508-520	enchondromas	
+4-12	521-523	or	
+4-13	524-540	enchondromatosis	
+4-14	541-543	is	
+4-15	544-549	known	
+4-16	550-552	as	
+4-17	553-559	Ollier	
+4-18	560-567	disease	
+4-19	568-569	.	
+
+#Text=If the enchondromatosis is associated with soft tissue hemangiomas , the disorder is called Maffucci syndrome .
+5-1	570-572	If	
+5-2	573-576	the	
+5-3	577-593	enchondromatosis	
+5-4	594-596	is	
+5-5	597-607	associated	
+5-6	608-612	with	
+5-7	613-617	soft	
+5-8	618-624	tissue	
+5-9	625-636	hemangiomas	
+5-10	637-638	,	
+5-11	639-642	the	
+5-12	643-651	disorder	
+5-13	652-654	is	
+5-14	655-661	called	
+5-15	662-670	Maffucci	
+5-16	671-679	syndrome	
+5-17	680-681	.	
+
+#Text=Enchondromatosis is a rare , nonheriditary disorder .
+6-1	682-698	Enchondromatosis	
+6-2	699-701	is	
+6-3	702-703	a	
+6-4	704-708	rare	
+6-5	709-710	,	
+6-6	711-724	nonheriditary	
+6-7	725-733	disorder	
+6-8	734-735	.	
+
+#Text=Enchondromas are usually solitary , located in the metaphyseal region of tubular bones , and the favored sites are the short tubular bones of the hands and feet .
+7-1	736-748	Enchondromas	
+7-2	749-752	are	
+7-3	753-760	usually	
+7-4	761-769	solitary	
+7-5	770-771	,	
+7-6	772-779	located	
+7-7	780-782	in	
+7-8	783-786	the	
+7-9	787-798	metaphyseal	
+7-10	799-805	region	
+7-11	806-808	of	
+7-12	809-816	tubular	
+7-13	817-822	bones	
+7-14	823-824	,	
+7-15	825-828	and	
+7-16	829-832	the	
+7-17	833-840	favored	
+7-18	841-846	sites	
+7-19	847-850	are	
+7-20	851-854	the	
+7-21	855-860	short	
+7-22	861-868	tubular	
+7-23	869-874	bones	
+7-24	875-877	of	
+7-25	878-881	the	
+7-26	882-887	hands	
+7-27	888-891	and	
+7-28	892-896	feet	
+7-29	897-898	.	
+
+#Text=Chondromas are thought to develop from rests of growth plate cartilage that subsequently proliferate and slowly enlarge .
+8-1	899-909	Chondromas	
+8-2	910-913	are	
+8-3	914-921	thought	
+8-4	922-924	to	
+8-5	925-932	develop	
+8-6	933-937	from	
+8-7	938-943	rests	
+8-8	944-946	of	
+8-9	947-953	growth	
+8-10	954-959	plate	
+8-11	960-969	cartilage	
+8-12	970-974	that	
+8-13	975-987	subsequently	
+8-14	988-999	proliferate	
+8-15	1000-1003	and	
+8-16	1004-1010	slowly	
+8-17	1011-1018	enlarge	
+8-18	1019-1020	.	
+
+#Text=Based on this theory , it is not surprising that these tumors arise mainly in bones that develop from enchondral ossification .
+9-1	1021-1026	Based	
+9-2	1027-1029	on	
+9-3	1030-1034	this	
+9-4	1035-1041	theory	
+9-5	1042-1043	,	
+9-6	1044-1046	it	
+9-7	1047-1049	is	
+9-8	1050-1053	not	
+9-9	1054-1064	surprising	
+9-10	1065-1069	that	
+9-11	1070-1075	these	
+9-12	1076-1082	tumors	
+9-13	1083-1088	arise	
+9-14	1089-1095	mainly	
+9-15	1096-1098	in	
+9-16	1099-1104	bones	
+9-17	1105-1109	that	
+9-18	1110-1117	develop	
+9-19	1118-1122	from	
+9-20	1123-1133	enchondral	
+9-21	1134-1146	ossification	
+9-22	1147-1148	.	
+
+#Text=References Kirks , DR .
+10-1	1149-1159	References	
+10-2	1160-1165	Kirks	
+10-3	1166-1167	,	
+10-4	1168-1170	DR	
+10-5	1171-1172	.	
+
+#Text=PRACTICAL PEDIATRIC RADIOLOGY , 3rd Ed , Lipincott : New York , 1998 , 358 - 9 .
+11-1	1173-1182	PRACTICAL	
+11-2	1183-1192	PEDIATRIC	
+11-3	1193-1202	RADIOLOGY	
+11-4	1203-1204	,	
+11-5	1205-1208	3rd	
+11-6	1209-1211	Ed	
+11-7	1212-1213	,	
+11-8	1214-1223	Lipincott	
+11-9	1224-1225	:	
+11-10	1226-1229	New	
+11-11	1230-1234	York	
+11-12	1235-1236	,	
+11-13	1237-1241	1998	
+11-14	1242-1243	,	
+11-15	1244-1247	358	
+11-16	1248-1249	-	
+11-17	1250-1251	9	
+11-18	1252-1253	.	
+
+#Text=1 image 
+12-1	1254-1255	1	
+12-2	1256-1261	image	

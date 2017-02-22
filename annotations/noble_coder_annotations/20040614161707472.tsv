@@ -1,0 +1,534 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=        Child Abuse Olya Polishchuk Mary Wyers, M.D.Children's Memorial Hospital  Abstract 1 year old male with trauma  Keywords lumbar injury, trauma, injury, child abuse, CT, MRI, plain film   			Publication Date: 2004-06-14                History 1 year old male with trauma    Findings CT: Translational injury at the L1/L2 level in the spine.
+1-1	Child	B-RADLEX|B-RADLEX
+1-2	Abuse	I-RADLEX
+1-3	Olya	O
+1-4	Polishchuk	O
+1-5	Mary	O
+1-6	Wyers	O
+1-7	,	O
+1-8	M	O
+1-9	.	O
+1-10	D	O
+1-11	.	O
+1-12	Children	O
+1-13	'	O
+1-14	s	O
+1-15	Memorial	O
+1-16	Hospital	O
+1-17	Abstract	O
+1-18	1	O
+1-19	year	O
+1-20	old	B-RADLEX
+1-21	male	B-RADLEX
+1-22	with	O
+1-23	trauma	B-RADLEX
+1-24	Keywords	O
+1-25	lumbar	O
+1-26	injury	B-RADLEX
+1-27	,	O
+1-28	trauma	B-RADLEX
+1-29	,	O
+1-30	injury	B-RADLEX
+1-31	,	O
+1-32	child	B-RADLEX|B-RADLEX
+1-33	abuse	I-RADLEX
+1-34	,	O
+1-35	CT	B-RADLEX
+1-36	,	O
+1-37	MRI	B-RADLEX
+1-38	,	O
+1-39	plain	O
+1-40	film	O
+1-41	Publication	O
+1-42	Date	O
+1-43	:	O
+1-44	2004	O
+1-45	-	O
+1-46	06	O
+1-47	-	O
+1-48	14	O
+1-49	History	O
+1-50	1	O
+1-51	year	O
+1-52	old	B-RADLEX
+1-53	male	B-RADLEX
+1-54	with	O
+1-55	trauma	B-RADLEX
+1-56	Findings	O
+1-57	CT	B-RADLEX
+1-58	:	O
+1-59	Translational	O
+1-60	injury	B-RADLEX
+1-61	at	O
+1-62	the	O
+1-63	L1	B-RADLEX|B-RADLEX
+1-64	/	I-RADLEX
+1-65	L2	I-RADLEX|B-RADLEX
+1-66	level	O
+1-67	in	O
+1-68	the	O
+1-69	spine	B-RADLEX
+1-70	.	O
+
+#id=2
+#text=With respect to L1, L2 is displaced almost one vertebral body anteriorly by 12 mm, and left by 4 mm.
+2-1	With	O
+2-2	respect	O
+2-3	to	O
+2-4	L1	B-RADLEX|B-RADLEX
+2-5	,	I-RADLEX
+2-6	L2	I-RADLEX|B-RADLEX
+2-7	is	O
+2-8	displaced	B-RADLEX
+2-9	almost	O
+2-10	one	O
+2-11	vertebral	B-RADLEX
+2-12	body	I-RADLEX|B-RADLEX
+2-13	anteriorly	O
+2-14	by	O
+2-15	12	B-RADLEX
+2-16	mm	O
+2-17	,	O
+2-18	and	O
+2-19	left	B-RADLEX
+2-20	by	O
+2-21	4	O
+2-22	mm	O
+2-23	.	O
+
+#id=3
+#text=There is an associated prevertebral hematoma.
+3-1	There	O
+3-2	is	O
+3-3	an	O
+3-4	associated	O
+3-5	prevertebral	O
+3-6	hematoma	B-RADLEX
+3-7	.	O
+
+#id=4
+#text= MRI: Grade 3/4 anterolisthesis of L2 on L1 resulting in significant narrowing of the central spinal canal.
+4-1	MRI	B-RADLEX
+4-2	:	O
+4-3	Grade	O
+4-4	3	O
+4-5	/	O
+4-6	4	O
+4-7	anterolisthesis	O
+4-8	of	O
+4-9	L2	B-RADLEX|B-RADLEX
+4-10	on	I-RADLEX
+4-11	L1	I-RADLEX|B-RADLEX
+4-12	resulting	O
+4-13	in	O
+4-14	significant	O
+4-15	narrowing	B-RADLEX
+4-16	of	O
+4-17	the	O
+4-18	central	B-RADLEX
+4-19	spinal	B-RADLEX
+4-20	canal	I-RADLEX
+4-21	.	O
+
+#id=5
+#text=A small amount of CSF is noted along the ventral and dorsal aspect of the conus medullaris, however there is no evidence of compression deformity of the conus medullaris.
+5-1	A	O
+5-2	small	B-RADLEX
+5-3	amount	B-RADLEX
+5-4	of	O
+5-5	CSF	O
+5-6	is	O
+5-7	noted	O
+5-8	along	O
+5-9	the	O
+5-10	ventral	B-RADLEX
+5-11	and	O
+5-12	dorsal	B-RADLEX
+5-13	aspect	O
+5-14	of	O
+5-15	the	O
+5-16	conus	B-RADLEX
+5-17	medullaris	I-RADLEX
+5-18	,	O
+5-19	however	O
+5-20	there	O
+5-21	is	O
+5-22	no	B-RADLEX
+5-23	evidence	O
+5-24	of	O
+5-25	compression	B-RADLEX
+5-26	deformity	B-RADLEX
+5-27	of	O
+5-28	the	O
+5-29	conus	O
+5-30	medullaris	O
+5-31	.	O
+
+#id=6
+#text=Evidence of prevertebral abnormality signal probably representing hemorrhage along the ventral aspect of the vertebral bodies from T11 through L1.
+6-1	Evidence	O
+6-2	of	O
+6-3	prevertebral	O
+6-4	abnormality	O
+6-5	signal	O
+6-6	probably	B-RADLEX
+6-7	representing	O
+6-8	hemorrhage	B-RADLEX
+6-9	along	O
+6-10	the	O
+6-11	ventral	B-RADLEX
+6-12	aspect	O
+6-13	of	O
+6-14	the	O
+6-15	vertebral	B-RADLEX|B-RADLEX
+6-16	bodies	I-RADLEX|I-RADLEX|B-RADLEX
+6-17	from	I-RADLEX
+6-18	T11	I-RADLEX|B-RADLEX
+6-19	through	O
+6-20	L1	B-RADLEX
+6-21	.	O
+
+#id=7
+#text=Plain film: Healing fractures of radius and ulna.
+7-1	Plain	O
+7-2	film	O
+7-3	:	O
+7-4	Healing	B-RADLEX
+7-5	fractures	B-RADLEX|B-RADLEX
+7-6	of	O
+7-7	radius	B-RADLEX
+7-8	and	O
+7-9	ulna	B-RADLEX
+7-10	.	O
+
+#id=8
+#text=  Diagnosis  Child Abuse    Differential True Trauma    Discussion  Child abuse has many names such as nonaccidental trauma, battered child syndrome, shaken infant syndrome, and suspected child abuse and neglect (SCAN).
+8-1	Diagnosis	B-RADLEX
+8-2	Child	B-RADLEX|B-RADLEX
+8-3	Abuse	I-RADLEX
+8-4	Differential	O
+8-5	True	B-RADLEX
+8-6	Trauma	B-RADLEX
+8-7	Discussion	O
+8-8	Child	B-RADLEX|B-RADLEX
+8-9	abuse	I-RADLEX
+8-10	has	O
+8-11	many	O
+8-12	names	O
+8-13	such	O
+8-14	as	O
+8-15	nonaccidental	O
+8-16	trauma	B-RADLEX
+8-17	,	O
+8-18	battered	O
+8-19	child	O
+8-20	syndrome	O
+8-21	,	O
+8-22	shaken	O
+8-23	infant	B-RADLEX
+8-24	syndrome	O
+8-25	,	O
+8-26	and	O
+8-27	suspected	B-RADLEX
+8-28	child	O
+8-29	abuse	O
+8-30	and	O
+8-31	neglect	O
+8-32	(	O
+8-33	SCAN	O
+8-34	).	O
+
+#id=9
+#text=It occurs in all socioeconomic groups and races.
+9-1	It	O
+9-2	occurs	O
+9-3	in	O
+9-4	all	B-RADLEX
+9-5	socioeconomic	O
+9-6	groups	B-RADLEX
+9-7	and	O
+9-8	races	O
+9-9	.	O
+
+#id=10
+#text=Radiographically, skeletal and brain injuries are seen most frequently in patients under 2 years of age.
+10-1	Radiographically	O
+10-2	,	O
+10-3	skeletal	O
+10-4	and	O
+10-5	brain	B-RADLEX
+10-6	injuries	B-RADLEX
+10-7	are	O
+10-8	seen	O
+10-9	most	O
+10-10	frequently	O
+10-11	in	O
+10-12	patients	B-RADLEX
+10-13	under	O
+10-14	2	O
+10-15	years	O
+10-16	of	O
+10-17	age	O
+10-18	.	O
+
+#id=11
+#text=These injuries are much less common in patients who are 4 years or older.
+11-1	These	O
+11-2	injuries	B-RADLEX
+11-3	are	O
+11-4	much	O
+11-5	less	O
+11-6	common	O
+11-7	in	O
+11-8	patients	B-RADLEX
+11-9	who	O
+11-10	are	O
+11-11	4	O
+11-12	years	O
+11-13	or	O
+11-14	older	O
+11-15	.	O
+
+#id=12
+#text=The hallmark of child abuse in the skeleton is multiple fractures in various stages of healing.
+12-1	The	O
+12-2	hallmark	O
+12-3	of	O
+12-4	child	B-RADLEX|B-RADLEX
+12-5	abuse	I-RADLEX
+12-6	in	O
+12-7	the	O
+12-8	skeleton	B-RADLEX
+12-9	is	O
+12-10	multiple	B-RADLEX
+12-11	fractures	B-RADLEX|B-RADLEX
+12-12	in	O
+12-13	various	O
+12-14	stages	O
+12-15	of	O
+12-16	healing	B-RADLEX
+12-17	.	O
+
+#id=13
+#text=However, a single fracture is more commonly seen.
+13-1	However	O
+13-2	,	O
+13-3	a	O
+13-4	single	B-RADLEX
+13-5	fracture	B-RADLEX
+13-6	is	O
+13-7	more	O
+13-8	commonly	O
+13-9	seen	O
+13-10	.	O
+
+#id=14
+#text=Single fracture is commonly present in long bones.
+14-1	Single	B-RADLEX
+14-2	fracture	B-RADLEX
+14-3	is	O
+14-4	commonly	O
+14-5	present	B-RADLEX
+14-6	in	O
+14-7	long	B-RADLEX|B-RADLEX
+14-8	bones	I-RADLEX|B-RADLEX|B-RADLEX
+14-9	.	O
+
+#id=15
+#text=Most commonly affected long bones are femur followed by tibia.
+15-1	Most	O
+15-2	commonly	O
+15-3	affected	O
+15-4	long	B-RADLEX|B-RADLEX
+15-5	bones	I-RADLEX|B-RADLEX|B-RADLEX
+15-6	are	O
+15-7	femur	B-RADLEX
+15-8	followed	O
+15-9	by	O
+15-10	tibia	B-RADLEX
+15-11	.	O
+
+#id=16
+#text=Other clues to diagnosis are fractures that are unusual for that particular child's age or reported trauma.
+16-1	Other	O
+16-2	clues	O
+16-3	to	O
+16-4	diagnosis	B-RADLEX
+16-5	are	O
+16-6	fractures	B-RADLEX|B-RADLEX
+16-7	that	O
+16-8	are	O
+16-9	unusual	O
+16-10	for	O
+16-11	that	O
+16-12	particular	O
+16-13	child	B-RADLEX
+16-14	'	I-RADLEX
+16-15	s	I-RADLEX
+16-16	age	O
+16-17	or	O
+16-18	reported	B-RADLEX
+16-19	trauma	B-RADLEX
+16-20	.	O
+
+#id=17
+#text=The "classic" fracture associated with child abuse is the corner metaphyseal fracture or "bucket-handle" fracture, resulting when metaphysis is pulled off.
+17-1	The	O
+17-2	"	O
+17-3	classic	O
+17-4	"	O
+17-5	fracture	B-RADLEX
+17-6	associated	O
+17-7	with	O
+17-8	child	B-RADLEX|B-RADLEX
+17-9	abuse	I-RADLEX
+17-10	is	O
+17-11	the	O
+17-12	corner	O
+17-13	metaphyseal	O
+17-14	fracture	B-RADLEX
+17-15	or	O
+17-16	"	O
+17-17	bucket	O
+17-18	-	O
+17-19	handle	O
+17-20	"	O
+17-21	fracture	B-RADLEX
+17-22	,	O
+17-23	resulting	O
+17-24	when	O
+17-25	metaphysis	B-RADLEX
+17-26	is	O
+17-27	pulled	O
+17-28	off	O
+17-29	.	O
+
+#id=18
+#text=Other injuries associated with child abuse include rib fractures and subdural hematomas in the head.
+18-1	Other	O
+18-2	injuries	B-RADLEX
+18-3	associated	O
+18-4	with	O
+18-5	child	B-RADLEX|B-RADLEX
+18-6	abuse	I-RADLEX
+18-7	include	O
+18-8	rib	B-RADLEX
+18-9	fractures	B-RADLEX|B-RADLEX
+18-10	and	O
+18-11	subdural	B-RADLEX|B-RADLEX
+18-12	hematomas	I-RADLEX|B-RADLEX
+18-13	in	O
+18-14	the	O
+18-15	head	B-RADLEX
+18-16	.	O
+
+#id=19
+#text= The spine dislocation is an unusual injury in this case.
+19-1	The	O
+19-2	spine	B-RADLEX
+19-3	dislocation	B-RADLEX
+19-4	is	O
+19-5	an	O
+19-6	unusual	O
+19-7	injury	B-RADLEX
+19-8	in	O
+19-9	this	O
+19-10	case	O
+19-11	.	O
+
+#id=20
+#text=However, any injury that does not match the trauma should raise the suspicion of child abuse    References  Williamson, S., PRIMARY PEDIATRIC RADIOLOGY, W.B.
+20-1	However	O
+20-2	,	O
+20-3	any	O
+20-4	injury	B-RADLEX
+20-5	that	O
+20-6	does	O
+20-7	not	O
+20-8	match	O
+20-9	the	O
+20-10	trauma	B-RADLEX
+20-11	should	O
+20-12	raise	O
+20-13	the	O
+20-14	suspicion	O
+20-15	of	O
+20-16	child	B-RADLEX|B-RADLEX
+20-17	abuse	I-RADLEX
+20-18	References	O
+20-19	Williamson	O
+20-20	,	O
+20-21	S	O
+20-22	.,	O
+20-23	PRIMARY	O
+20-24	PEDIATRIC	B-RADLEX
+20-25	RADIOLOGY	O
+20-26	,	O
+20-27	W	O
+20-28	.	O
+20-29	B	O
+20-30	.	O
+
+#id=21
+#text=Saunders COmpany, 2002, 183-187.
+21-1	Saunders	O
+21-2	COmpany	O
+21-3	,	O
+21-4	2002	O
+21-5	,	O
+21-6	183	O
+21-7	-	O
+21-8	187	O
+21-9	.	O
+
+#id=22
+#text=Lonergan, G., Baker, A.M., Morey, M.K., Boos, S.C., CHILD ABUSE: RADIOLOGIC-PATHOLOGIC CORRELATION, AFIP Archives, RadioGraphics 2003, 23: 811-845.
+22-1	Lonergan	O
+22-2	,	O
+22-3	G	O
+22-4	.,	O
+22-5	Baker	O
+22-6	,	O
+22-7	A	O
+22-8	.	O
+22-9	M	O
+22-10	.,	O
+22-11	Morey	O
+22-12	,	O
+22-13	M	O
+22-14	.	O
+22-15	K	O
+22-16	.,	O
+22-17	Boos	O
+22-18	,	O
+22-19	S	O
+22-20	.	O
+22-21	C	O
+22-22	.,	O
+22-23	CHILD	B-RADLEX|B-RADLEX
+22-24	ABUSE	I-RADLEX
+22-25	:	O
+22-26	RADIOLOGIC	O
+22-27	-	O
+22-28	PATHOLOGIC	O
+22-29	CORRELATION	O
+22-30	,	O
+22-31	AFIP	O
+22-32	Archives	O
+22-33	,	O
+22-34	RadioGraphics	O
+22-35	2003	O
+22-36	,	O
+22-37	23	O
+22-38	:	O
+22-39	811	O
+22-40	-	O
+22-41	845	O
+22-42	.	O
+
+#id=23
+#text=     5 images            					  					 					  					        .
+23-1	5	O
+23-2	images	O

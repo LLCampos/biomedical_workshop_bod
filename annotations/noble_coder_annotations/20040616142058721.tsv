@@ -1,0 +1,257 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=        Ollier's Disease Larry Chen  Mary Wyers, M.D.
+1-1	Ollier	B-RADLEX
+1-2	'	I-RADLEX
+1-3	s	I-RADLEX
+1-4	Disease	I-RADLEX
+1-5	Larry	O
+1-6	Chen	O
+1-7	Mary	O
+1-8	Wyers	O
+1-9	,	O
+1-10	M	O
+1-11	.	O
+1-12	D	O
+1-13	.	O
+
+#id=2
+#text=Children's Memorial Hospital  Abstract 4 yo male with hand deformity  Keywords Ollier's Disease, enchondroma    			Publication Date: 2004-06-16                History 4 yo male with hand deformity    Findings  PA view of the hand: Lytic partially calcified lesions of the proximal phalanges of the thumb and first finger with associated deformity.
+2-1	Children	O
+2-2	'	O
+2-3	s	O
+2-4	Memorial	O
+2-5	Hospital	O
+2-6	Abstract	O
+2-7	4	O
+2-8	yo	O
+2-9	male	B-RADLEX
+2-10	with	O
+2-11	hand	B-RADLEX
+2-12	deformity	B-RADLEX
+2-13	Keywords	O
+2-14	Ollier	B-RADLEX
+2-15	'	I-RADLEX
+2-16	s	I-RADLEX
+2-17	Disease	I-RADLEX
+2-18	,	O
+2-19	enchondroma	B-RADLEX
+2-20	Publication	O
+2-21	Date	O
+2-22	:	O
+2-23	2004	O
+2-24	-	O
+2-25	06	O
+2-26	-	O
+2-27	16	O
+2-28	History	O
+2-29	4	O
+2-30	yo	O
+2-31	male	B-RADLEX
+2-32	with	O
+2-33	hand	B-RADLEX
+2-34	deformity	B-RADLEX
+2-35	Findings	O
+2-36	PA	B-RADLEX|B-RADLEX
+2-37	view	I-RADLEX
+2-38	of	O
+2-39	the	O
+2-40	hand	B-RADLEX
+2-41	:	O
+2-42	Lytic	B-RADLEX
+2-43	partially	B-RADLEX
+2-44	calcified	B-RADLEX
+2-45	lesions	B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+2-46	of	O
+2-47	the	O
+2-48	proximal	B-RADLEX
+2-49	phalanges	O
+2-50	of	O
+2-51	the	O
+2-52	thumb	B-RADLEX
+2-53	and	O
+2-54	first	B-RADLEX|B-RADLEX
+2-55	finger	I-RADLEX|B-RADLEX
+2-56	with	O
+2-57	associated	O
+2-58	deformity	B-RADLEX
+2-59	.	O
+
+#id=3
+#text=There is also a lesion in the proximal radial metaphysis.
+3-1	There	O
+3-2	is	O
+3-3	also	O
+3-4	a	O
+3-5	lesion	B-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+3-6	in	O
+3-7	the	O
+3-8	proximal	B-RADLEX
+3-9	radial	B-RADLEX|B-RADLEX
+3-10	metaphysis	I-RADLEX|B-RADLEX
+3-11	.	O
+
+#id=4
+#text=   Diagnosis Ollier's Disease   Discussion The syndrome of multiple enchondromas or enchondromatosis is known as Ollier disease.
+4-1	Diagnosis	B-RADLEX
+4-2	Ollier	B-RADLEX
+4-3	'	I-RADLEX
+4-4	s	I-RADLEX
+4-5	Disease	I-RADLEX
+4-6	Discussion	O
+4-7	The	O
+4-8	syndrome	O
+4-9	of	O
+4-10	multiple	B-RADLEX
+4-11	enchondromas	B-RADLEX
+4-12	or	O
+4-13	enchondromatosis	B-RADLEX
+4-14	is	O
+4-15	known	B-RADLEX
+4-16	as	O
+4-17	Ollier	B-RADLEX
+4-18	disease	I-RADLEX
+4-19	.	O
+
+#id=5
+#text=If the enchondromatosis is associated with soft tissue hemangiomas, the disorder is called Maffucci syndrome.
+5-1	If	O
+5-2	the	O
+5-3	enchondromatosis	B-RADLEX
+5-4	is	O
+5-5	associated	O
+5-6	with	O
+5-7	soft	B-RADLEX|B-RADLEX
+5-8	tissue	I-RADLEX|B-RADLEX
+5-9	hemangiomas	B-RADLEX
+5-10	,	O
+5-11	the	O
+5-12	disorder	O
+5-13	is	O
+5-14	called	O
+5-15	Maffucci	B-RADLEX
+5-16	syndrome	I-RADLEX
+5-17	.	O
+
+#id=6
+#text=Enchondromatosis is a rare, nonheriditary disorder.
+6-1	Enchondromatosis	B-RADLEX
+6-2	is	O
+6-3	a	O
+6-4	rare	O
+6-5	,	O
+6-6	nonheriditary	O
+6-7	disorder	O
+6-8	.	O
+
+#id=7
+#text=Enchondromas are usually solitary, located in the metaphyseal region of tubular bones, and the favored sites are the short tubular bones of the hands and feet.
+7-1	Enchondromas	B-RADLEX
+7-2	are	O
+7-3	usually	O
+7-4	solitary	O
+7-5	,	O
+7-6	located	O
+7-7	in	O
+7-8	the	O
+7-9	metaphyseal	O
+7-10	region	O
+7-11	of	O
+7-12	tubular	B-RADLEX
+7-13	bones	B-RADLEX|B-RADLEX|B-RADLEX
+7-14	,	I-RADLEX
+7-15	and	I-RADLEX
+7-16	the	I-RADLEX
+7-17	favored	I-RADLEX
+7-18	sites	I-RADLEX
+7-19	are	I-RADLEX
+7-20	the	I-RADLEX
+7-21	short	I-RADLEX|B-RADLEX
+7-22	tubular	I-RADLEX|B-RADLEX
+7-23	bones	I-RADLEX|B-RADLEX|B-RADLEX
+7-24	of	I-RADLEX
+7-25	the	I-RADLEX
+7-26	hands	I-RADLEX|B-RADLEX
+7-27	and	O
+7-28	feet	O
+7-29	.	O
+
+#id=8
+#text=Chondromas are thought to develop from rests of growth plate cartilage that subsequently proliferate and slowly enlarge.
+8-1	Chondromas	B-RADLEX
+8-2	are	O
+8-3	thought	O
+8-4	to	O
+8-5	develop	O
+8-6	from	O
+8-7	rests	B-RADLEX
+8-8	of	O
+8-9	growth	B-RADLEX|B-RADLEX
+8-10	plate	I-RADLEX
+8-11	cartilage	B-RADLEX
+8-12	that	O
+8-13	subsequently	O
+8-14	proliferate	O
+8-15	and	O
+8-16	slowly	O
+8-17	enlarge	O
+8-18	.	O
+
+#id=9
+#text=Based on this theory, it is not surprising that these tumors arise mainly in bones that develop from enchondral ossification.
+9-1	Based	O
+9-2	on	O
+9-3	this	O
+9-4	theory	O
+9-5	,	O
+9-6	it	O
+9-7	is	O
+9-8	not	O
+9-9	surprising	O
+9-10	that	O
+9-11	these	O
+9-12	tumors	B-RADLEX
+9-13	arise	O
+9-14	mainly	O
+9-15	in	O
+9-16	bones	B-RADLEX|B-RADLEX
+9-17	that	O
+9-18	develop	O
+9-19	from	O
+9-20	enchondral	O
+9-21	ossification	B-RADLEX
+9-22	.	O
+
+#id=10
+#text=   References  Kirks, DR.
+10-1	References	O
+10-2	Kirks	O
+10-3	,	O
+10-4	DR	B-RADLEX
+10-5	.	O
+
+#id=11
+#text=PRACTICAL PEDIATRIC RADIOLOGY, 3rd Ed, Lipincott:New York, 1998, 358-9.
+11-1	PRACTICAL	O
+11-2	PEDIATRIC	B-RADLEX
+11-3	RADIOLOGY	O
+11-4	,	O
+11-5	3rd	B-RADLEX
+11-6	Ed	O
+11-7	,	O
+11-8	Lipincott	O
+11-9	:	O
+11-10	New	B-RADLEX
+11-11	York	O
+11-12	,	O
+11-13	1998	O
+11-14	,	O
+11-15	358	O
+11-16	-	O
+11-17	9	O
+11-18	.	O
+
+#id=12
+#text=     1 image        					  					 					  					        .
+12-1	1	O
+12-2	image	O

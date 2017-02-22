@@ -1,0 +1,339 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=        Blount Disease Larry Chen Mary Wyers, M.D.
+1-1	Blount	B-RADLEX
+1-2	Disease	I-RADLEX
+1-3	Larry	O
+1-4	Chen	O
+1-5	Mary	O
+1-6	Wyers	O
+1-7	,	O
+1-8	M	O
+1-9	.	O
+1-10	D	O
+1-11	.	O
+
+#id=2
+#text=Children's Memorial Hospital  Abstract 3.5 yo female with bowlegs Keywords  Blount Disease     			Publication Date: 2004-06-16                History 3.5 yo female with bowlegs   Findings Beaking and irregularity of the medial proximal tibial metaphysis, tibia vara   Diagnosis  Blount Disease     Differential D-resistant (familial hypophosphatemic) rickets, developmental/physiologic bowing     Discussion The young child with bowlegs walks with his hips abducted and externally rotated and his knees flexed on tibias that have increased internal tibial torsion.
+2-1	Children	O
+2-2	'	O
+2-3	s	O
+2-4	Memorial	O
+2-5	Hospital	O
+2-6	Abstract	O
+2-7	3	O
+2-8	.	O
+2-9	5	O
+2-10	yo	O
+2-11	female	B-RADLEX
+2-12	with	O
+2-13	bowlegs	O
+2-14	Keywords	O
+2-15	Blount	B-RADLEX
+2-16	Disease	I-RADLEX
+2-17	Publication	O
+2-18	Date	O
+2-19	:	O
+2-20	2004	O
+2-21	-	O
+2-22	06	O
+2-23	-	O
+2-24	16	O
+2-25	History	O
+2-26	3	O
+2-27	.	O
+2-28	5	O
+2-29	yo	O
+2-30	female	B-RADLEX
+2-31	with	O
+2-32	bowlegs	O
+2-33	Findings	O
+2-34	Beaking	O
+2-35	and	O
+2-36	irregularity	O
+2-37	of	O
+2-38	the	O
+2-39	medial	B-RADLEX
+2-40	proximal	B-RADLEX
+2-41	tibial	B-RADLEX
+2-42	metaphysis	I-RADLEX|B-RADLEX|B-RADLEX
+2-43	,	I-RADLEX
+2-44	tibia	I-RADLEX|B-RADLEX
+2-45	vara	O
+2-46	Diagnosis	B-RADLEX
+2-47	Blount	B-RADLEX
+2-48	Disease	I-RADLEX
+2-49	Differential	O
+2-50	D	O
+2-51	-	O
+2-52	resistant	O
+2-53	(	O
+2-54	familial	O
+2-55	hypophosphatemic	O
+2-56	)	O
+2-57	rickets	B-RADLEX
+2-58	,	O
+2-59	developmental	B-RADLEX
+2-60	/	O
+2-61	physiologic	O
+2-62	bowing	B-RADLEX
+2-63	Discussion	O
+2-64	The	O
+2-65	young	O
+2-66	child	B-RADLEX
+2-67	with	O
+2-68	bowlegs	O
+2-69	walks	O
+2-70	with	O
+2-71	his	O
+2-72	hips	B-RADLEX
+2-73	abducted	O
+2-74	and	O
+2-75	externally	B-RADLEX
+2-76	rotated	I-RADLEX
+2-77	and	O
+2-78	his	O
+2-79	knees	B-RADLEX
+2-80	flexed	O
+2-81	on	O
+2-82	tibias	B-RADLEX
+2-83	that	O
+2-84	have	O
+2-85	increased	B-RADLEX
+2-86	internal	O
+2-87	tibial	O
+2-88	torsion	B-RADLEX
+2-89	.	O
+
+#id=3
+#text=A significant association with obesity has been noted.
+3-1	A	O
+3-2	significant	O
+3-3	association	O
+3-4	with	O
+3-5	obesity	B-RADLEX
+3-6	has	O
+3-7	been	O
+3-8	noted	O
+3-9	.	O
+
+#id=4
+#text= Two forms of Blount disease have been identified: infantile tibia vara, which is usually bilateral and affects children under 10 yo, with onset most commonly between 1-3 yo; and adolescent tibia vara, which is usually unilateral and occurs in children between the ages of 8-5 yo.
+4-1	Two	O
+4-2	forms	O
+4-3	of	O
+4-4	Blount	B-RADLEX
+4-5	disease	I-RADLEX
+4-6	have	O
+4-7	been	O
+4-8	identified	O
+4-9	:	O
+4-10	infantile	O
+4-11	tibia	B-RADLEX
+4-12	vara	O
+4-13	,	O
+4-14	which	O
+4-15	is	O
+4-16	usually	O
+4-17	bilateral	B-RADLEX
+4-18	and	O
+4-19	affects	O
+4-20	children	O
+4-21	under	O
+4-22	10	B-RADLEX
+4-23	yo	O
+4-24	,	O
+4-25	with	O
+4-26	onset	O
+4-27	most	O
+4-28	commonly	O
+4-29	between	O
+4-30	1	O
+4-31	-	O
+4-32	3	O
+4-33	yo	O
+4-34	;	O
+4-35	and	O
+4-36	adolescent	B-RADLEX
+4-37	tibia	B-RADLEX
+4-38	vara	O
+4-39	,	O
+4-40	which	O
+4-41	is	O
+4-42	usually	O
+4-43	unilateral	B-RADLEX
+4-44	and	O
+4-45	occurs	O
+4-46	in	O
+4-47	children	O
+4-48	between	O
+4-49	the	O
+4-50	ages	B-RADLEX
+4-51	of	O
+4-52	8	O
+4-53	-	O
+4-54	5	O
+4-55	yo	O
+4-56	.	O
+
+#id=5
+#text=The course of the adolsecent form of the disease is less severe and its incidence less frequent than in the infantile form.
+5-1	The	O
+5-2	course	O
+5-3	of	O
+5-4	the	O
+5-5	adolsecent	O
+5-6	form	O
+5-7	of	O
+5-8	the	O
+5-9	disease	O
+5-10	is	O
+5-11	less	O
+5-12	severe	B-RADLEX
+5-13	and	O
+5-14	its	O
+5-15	incidence	O
+5-16	less	O
+5-17	frequent	O
+5-18	than	O
+5-19	in	O
+5-20	the	O
+5-21	infantile	O
+5-22	form	O
+5-23	.	O
+
+#id=6
+#text= Based on the progession of radiographic changes in Blount disease, congenital tibia vara is divided into 6 stages as a guideline for prognosis and treatment.
+6-1	Based	O
+6-2	on	O
+6-3	the	O
+6-4	progession	O
+6-5	of	O
+6-6	radiographic	O
+6-7	changes	B-RADLEX|B-RADLEX
+6-8	in	O
+6-9	Blount	B-RADLEX
+6-10	disease	I-RADLEX|B-RADLEX
+6-11	,	I-RADLEX
+6-12	congenital	I-RADLEX|B-RADLEX
+6-13	tibia	B-RADLEX
+6-14	vara	O
+6-15	is	O
+6-16	divided	O
+6-17	into	O
+6-18	6	O
+6-19	stages	O
+6-20	as	O
+6-21	a	O
+6-22	guideline	O
+6-23	for	O
+6-24	prognosis	O
+6-25	and	O
+6-26	treatment	B-RADLEX
+6-27	.	O
+
+#id=7
+#text= A metaphyseal-diaphyseal angle (a line drawn across the tibial metaphysis compared with one perpendicular to the tibial axis) of more than 11 degrees may predict the deveopment of tibia vara before typical radiologic findings occur.
+7-1	A	O
+7-2	metaphyseal	O
+7-3	-	O
+7-4	diaphyseal	O
+7-5	angle	B-RADLEX
+7-6	(	O
+7-7	a	O
+7-8	line	O
+7-9	drawn	O
+7-10	across	O
+7-11	the	O
+7-12	tibial	B-RADLEX
+7-13	metaphysis	I-RADLEX|B-RADLEX
+7-14	compared	O
+7-15	with	O
+7-16	one	O
+7-17	perpendicular	B-RADLEX
+7-18	to	O
+7-19	the	O
+7-20	tibial	O
+7-21	axis	B-RADLEX
+7-22	)	O
+7-23	of	O
+7-24	more	O
+7-25	than	O
+7-26	11	B-RADLEX
+7-27	degrees	O
+7-28	may	O
+7-29	predict	O
+7-30	the	O
+7-31	deveopment	O
+7-32	of	O
+7-33	tibia	B-RADLEX
+7-34	vara	O
+7-35	before	B-RADLEX
+7-36	typical	B-RADLEX
+7-37	radiologic	O
+7-38	findings	O
+7-39	occur	O
+7-40	.	O
+
+#id=8
+#text=   References  Ozonoff, MB.
+8-1	References	O
+8-2	Ozonoff	O
+8-3	,	O
+8-4	MB	O
+8-5	.	O
+
+#id=9
+#text=PEDIATRIC ORTHOPEDIC RADIOLOGY, 2nd Ed, WB Saunders:Philadelphia, 1992, pp324-31.
+9-1	PEDIATRIC	B-RADLEX
+9-2	ORTHOPEDIC	O
+9-3	RADIOLOGY	O
+9-4	,	O
+9-5	2nd	B-RADLEX
+9-6	Ed	O
+9-7	,	O
+9-8	WB	O
+9-9	Saunders	O
+9-10	:	O
+9-11	Philadelphia	O
+9-12	,	O
+9-13	1992	O
+9-14	,	O
+9-15	pp324	O
+9-16	-	O
+9-17	31	O
+9-18	.	O
+
+#id=10
+#text= Greenspan, A.
+10-1	Greenspan	O
+10-2	,	O
+10-3	A	O
+10-4	.	O
+
+#id=11
+#text=ORTHOPEDIC RADIOLOGY: A PRACTICAL APPROACH.
+11-1	ORTHOPEDIC	O
+11-2	RADIOLOGY	O
+11-3	:	O
+11-4	A	O
+11-5	PRACTICAL	O
+11-6	APPROACH	O
+11-7	.	O
+
+#id=12
+#text=Lippincotts Williams & Wilkins, 2000, 876.
+12-1	Lippincotts	O
+12-2	Williams	O
+12-3	&	O
+12-4	Wilkins	O
+12-5	,	O
+12-6	2000	O
+12-7	,	O
+12-8	876	O
+12-9	.	O
+
+#id=13
+#text=     1 image        					  					 					  					        .
+13-1	1	O
+13-2	image	O

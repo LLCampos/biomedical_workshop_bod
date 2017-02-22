@@ -1,0 +1,254 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=        Ebstein Anomaly    Larry Chen     Mary Wyers, M.D.
+1-1	Ebstein	B-RADLEX
+1-2	Anomaly	I-RADLEX
+1-3	Larry	O
+1-4	Chen	O
+1-5	Mary	O
+1-6	Wyers	O
+1-7	,	O
+1-8	M	O
+1-9	.	O
+1-10	D	O
+1-11	.	O
+
+#id=2
+#text=  Children's Memorial Hospital   Abstract   Newborn with cyanosis  Keywords  ebstein anomaly, congenital heart disease, tricuspid valve, cyanosis   			Publication Date: 2004-6-15                History    Newborn with cyanosis     Findings    Marked cardiac enlargement with decreased pulmonary vascularity      Diagnosis    Ebstein Anomaly      Differential   cyanosis with decreased pulmonary vascularity: tetralogy of fallot, tricuspid atresia, pulmonary atresia/stenosis, pericardial effusion may lead to enlarged heart but will not lead to cyanosis     Discussion   Ebstein's anomaly is a dysplasia of the tricuspid valve (enlarged, malformed and displaced into the RV).
+2-1	Children	O
+2-2	'	O
+2-3	s	O
+2-4	Memorial	O
+2-5	Hospital	O
+2-6	Abstract	O
+2-7	Newborn	B-RADLEX
+2-8	with	O
+2-9	cyanosis	O
+2-10	Keywords	O
+2-11	ebstein	B-RADLEX
+2-12	anomaly	I-RADLEX
+2-13	,	O
+2-14	congenital	B-RADLEX
+2-15	heart	B-RADLEX|B-RADLEX
+2-16	disease	I-RADLEX|B-RADLEX
+2-17	,	I-RADLEX
+2-18	tricuspid	I-RADLEX|B-RADLEX
+2-19	valve	I-RADLEX|I-RADLEX|B-RADLEX
+2-20	,	O
+2-21	cyanosis	O
+2-22	Publication	O
+2-23	Date	O
+2-24	:	O
+2-25	2004	O
+2-26	-	O
+2-27	6	O
+2-28	-	O
+2-29	15	O
+2-30	History	O
+2-31	Newborn	B-RADLEX
+2-32	with	O
+2-33	cyanosis	O
+2-34	Findings	O
+2-35	Marked	B-RADLEX
+2-36	cardiac	O
+2-37	enlargement	B-RADLEX
+2-38	with	O
+2-39	decreased	B-RADLEX
+2-40	pulmonary	O
+2-41	vascularity	B-RADLEX
+2-42	Diagnosis	B-RADLEX
+2-43	Ebstein	B-RADLEX
+2-44	Anomaly	I-RADLEX
+2-45	Differential	O
+2-46	cyanosis	O
+2-47	with	O
+2-48	decreased	B-RADLEX
+2-49	pulmonary	O
+2-50	vascularity	B-RADLEX
+2-51	:	O
+2-52	tetralogy	B-RADLEX
+2-53	of	I-RADLEX
+2-54	fallot	I-RADLEX
+2-55	,	O
+2-56	tricuspid	O
+2-57	atresia	B-RADLEX
+2-58	,	O
+2-59	pulmonary	O
+2-60	atresia	B-RADLEX
+2-61	/	O
+2-62	stenosis	B-RADLEX
+2-63	,	O
+2-64	pericardial	B-RADLEX
+2-65	effusion	I-RADLEX|B-RADLEX
+2-66	may	O
+2-67	lead	B-RADLEX
+2-68	to	O
+2-69	enlarged	B-RADLEX
+2-70	heart	B-RADLEX
+2-71	but	O
+2-72	will	O
+2-73	not	O
+2-74	lead	B-RADLEX
+2-75	to	O
+2-76	cyanosis	O
+2-77	Discussion	O
+2-78	Ebstein	B-RADLEX
+2-79	'	I-RADLEX
+2-80	s	I-RADLEX
+2-81	anomaly	I-RADLEX
+2-82	is	O
+2-83	a	O
+2-84	dysplasia	B-RADLEX
+2-85	of	O
+2-86	the	O
+2-87	tricuspid	B-RADLEX
+2-88	valve	I-RADLEX|B-RADLEX
+2-89	(	O
+2-90	enlarged	B-RADLEX
+2-91	,	O
+2-92	malformed	O
+2-93	and	O
+2-94	displaced	B-RADLEX
+2-95	into	O
+2-96	the	O
+2-97	RV	O
+2-98	).	O
+
+#id=3
+#text=As a result, contractions become discoordinated leading to tricuspid obstruction and regurgitation.
+3-1	As	O
+3-2	a	O
+3-3	result	O
+3-4	,	O
+3-5	contractions	B-RADLEX
+3-6	become	O
+3-7	discoordinated	O
+3-8	leading	O
+3-9	to	O
+3-10	tricuspid	O
+3-11	obstruction	B-RADLEX
+3-12	and	O
+3-13	regurgitation	B-RADLEX
+3-14	.	O
+
+#id=4
+#text=This leads to a "box shaped heart" with marked cardiac enlargement, especially the RA.
+4-1	This	O
+4-2	leads	B-RADLEX
+4-3	to	O
+4-4	a	O
+4-5	"	O
+4-6	box	O
+4-7	shaped	O
+4-8	heart	B-RADLEX
+4-9	"	O
+4-10	with	O
+4-11	marked	B-RADLEX
+4-12	cardiac	O
+4-13	enlargement	B-RADLEX
+4-14	,	O
+4-15	especially	O
+4-16	the	O
+4-17	RA	O
+4-18	.	O
+
+#id=5
+#text=Most patients also have either an ASD or a PFO.
+5-1	Most	O
+5-2	patients	B-RADLEX
+5-3	also	O
+5-4	have	O
+5-5	either	O
+5-6	an	O
+5-7	ASD	B-RADLEX
+5-8	or	O
+5-9	a	O
+5-10	PFO	O
+5-11	.	O
+
+#id=6
+#text=The obstruction leads to decreased pulmonary vascularity.
+6-1	The	O
+6-2	obstruction	B-RADLEX
+6-3	leads	B-RADLEX
+6-4	to	O
+6-5	decreased	B-RADLEX
+6-6	pulmonary	O
+6-7	vascularity	B-RADLEX
+6-8	.	O
+
+#id=7
+#text=    References  Burton, EM, Brody AS; ESSENTIALS OF PEDIATRIC RADIOLOGY, Thieme, 1999, pg 253.
+7-1	References	O
+7-2	Burton	O
+7-3	,	O
+7-4	EM	O
+7-5	,	O
+7-6	Brody	O
+7-7	AS	O
+7-8	;	O
+7-9	ESSENTIALS	O
+7-10	OF	O
+7-11	PEDIATRIC	B-RADLEX
+7-12	RADIOLOGY	O
+7-13	,	O
+7-14	Thieme	O
+7-15	,	O
+7-16	1999	O
+7-17	,	O
+7-18	pg	O
+7-19	253	O
+7-20	.	O
+
+#id=8
+#text=Kuhn, J.P., Slovis, T.L., Haller, J.O., CAFFEY'S PEDIATRIC DIAGNOSTIC IMAGING, Elsevier, Inc., 11th ed.
+8-1	Kuhn	O
+8-2	,	O
+8-3	J	O
+8-4	.	O
+8-5	P	O
+8-6	.,	O
+8-7	Slovis	O
+8-8	,	O
+8-9	T	O
+8-10	.	O
+8-11	L	O
+8-12	.,	O
+8-13	Haller	O
+8-14	,	O
+8-15	J	O
+8-16	.	O
+8-17	O	O
+8-18	.,	O
+8-19	CAFFEY	O
+8-20	'	O
+8-21	S	O
+8-22	PEDIATRIC	B-RADLEX
+8-23	DIAGNOSTIC	B-RADLEX|B-RADLEX
+8-24	IMAGING	I-RADLEX
+8-25	,	O
+8-26	Elsevier	O
+8-27	,	O
+8-28	Inc	O
+8-29	.,	O
+8-30	11th	B-RADLEX
+8-31	ed	O
+8-32	.	O
+
+#id=9
+#text=2006.
+9-1	2006	O
+9-2	.	O
+
+#id=10
+#text=[not yet published].
+10-1	[	O
+10-2	not	O
+10-3	yet	O
+10-4	published	O
+10-5	].	O
+
+#id=11
+#text=     2 images         					  					 					  					        .
+11-1	2	O
+11-2	images	O

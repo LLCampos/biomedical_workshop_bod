@@ -1,0 +1,248 @@
+#FORMAT=WebAnno TSV 3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity|value
+
+
+#Text=Ollier ' s Disease Larry Chen Mary Wyers , M . D .
+1-1	0-6	Ollier	_	
+1-2	7-8	'	_	
+1-3	9-10	s	_	
+1-4	11-18	Disease	_	
+1-5	19-24	Larry	_	
+1-6	25-29	Chen	_	
+1-7	30-34	Mary	_	
+1-8	35-40	Wyers	_	
+1-9	41-42	,	_	
+1-10	43-44	M	_	
+1-11	45-46	.	_	
+1-12	47-48	D	_	
+1-13	49-50	.	_	
+
+#Text=Children ' s Memorial Hospital Abstract 4 yo male with hand deformity Keywords Ollier ' s Disease , enchondroma Publication Date : 2004 - 06 - 16 History 4 yo male with hand deformity Findings PA view of the hand : Lytic partially calcified lesions of the proximal phalanges of the thumb and first finger with associated deformity .
+2-1	51-59	Children	_	
+2-2	60-61	'	_	
+2-3	62-63	s	_	
+2-4	64-72	Memorial	_	
+2-5	73-81	Hospital	_	
+2-6	82-90	Abstract	_	
+2-7	91-92	4	_	
+2-8	93-95	yo	_	
+2-9	96-100	male	RADLEX	
+2-10	101-105	with	_	
+2-11	106-110	hand	RADLEX	
+2-12	111-120	deformity	RADLEX	
+2-13	121-129	Keywords	_	
+2-14	130-136	Ollier	_	
+2-15	137-138	'	_	
+2-16	139-140	s	_	
+2-17	141-148	Disease	_	
+2-18	149-150	,	_	
+2-19	151-162	enchondroma	RADLEX	
+2-20	163-174	Publication	_	
+2-21	175-179	Date	_	
+2-22	180-181	:	_	
+2-23	182-186	2004	_	
+2-24	187-188	-	_	
+2-25	189-191	06	_	
+2-26	192-193	-	_	
+2-27	194-196	16	_	
+2-28	197-204	History	_	
+2-29	205-206	4	_	
+2-30	207-209	yo	_	
+2-31	210-214	male	RADLEX	
+2-32	215-219	with	_	
+2-33	220-224	hand	RADLEX	
+2-34	225-234	deformity	RADLEX	
+2-35	235-243	Findings	_	
+2-36	244-246	PA	RADLEX[8]	
+2-37	247-251	view	RADLEX[8]	
+2-38	252-254	of	_	
+2-39	255-258	the	_	
+2-40	259-263	hand	RADLEX	
+2-41	264-265	:	_	
+2-42	266-271	Lytic	RADLEX	
+2-43	272-281	partially	RADLEX	
+2-44	282-291	calcified	RADLEX	
+2-45	292-299	lesions	_	
+2-46	300-302	of	_	
+2-47	303-306	the	_	
+2-48	307-315	proximal	RADLEX	
+2-49	316-325	phalanges	_	
+2-50	326-328	of	_	
+2-51	329-332	the	_	
+2-52	333-338	thumb	RADLEX	
+2-53	339-342	and	_	
+2-54	343-348	first	RADLEX[15]	
+2-55	349-355	finger	RADLEX[15]	
+2-56	356-360	with	_	
+2-57	361-371	associated	_	
+2-58	372-381	deformity	RADLEX	
+2-59	382-383	.	_	
+
+#Text=There is also a lesion in the proximal radial metaphysis .
+3-1	384-389	There	_	
+3-2	390-392	is	_	
+3-3	393-397	also	_	
+3-4	398-399	a	_	
+3-5	400-406	lesion	RADLEX	
+3-6	407-409	in	_	
+3-7	410-413	the	_	
+3-8	414-422	proximal	RADLEX	
+3-9	423-429	radial	RADLEX[19]	
+3-10	430-440	metaphysis	RADLEX[19]	
+3-11	441-442	.	_	
+
+#Text=Diagnosis Ollier ' s Disease Discussion The syndrome of multiple enchondromas or enchondromatosis is known as Ollier disease .
+4-1	443-452	Diagnosis	RADLEX	
+4-2	453-459	Ollier	_	
+4-3	460-461	'	_	
+4-4	462-463	s	_	
+4-5	464-471	Disease	_	
+4-6	472-482	Discussion	_	
+4-7	483-486	The	_	
+4-8	487-495	syndrome	_	
+4-9	496-498	of	_	
+4-10	499-507	multiple	RADLEX	
+4-11	508-520	enchondromas	_	
+4-12	521-523	or	_	
+4-13	524-540	enchondromatosis	RADLEX	
+4-14	541-543	is	_	
+4-15	544-549	known	RADLEX	
+4-16	550-552	as	_	
+4-17	553-559	Ollier	RADLEX[24]	
+4-18	560-567	disease	RADLEX[24]	
+4-19	568-569	.	_	
+
+#Text=If the enchondromatosis is associated with soft tissue hemangiomas , the disorder is called Maffucci syndrome .
+5-1	570-572	If	_	
+5-2	573-576	the	_	
+5-3	577-593	enchondromatosis	RADLEX	
+5-4	594-596	is	_	
+5-5	597-607	associated	_	
+5-6	608-612	with	_	
+5-7	613-617	soft	RADLEX[26]	
+5-8	618-624	tissue	RADLEX[26]	
+5-9	625-636	hemangiomas	_	
+5-10	637-638	,	_	
+5-11	639-642	the	_	
+5-12	643-651	disorder	_	
+5-13	652-654	is	_	
+5-14	655-661	called	_	
+5-15	662-670	Maffucci	RADLEX[27]	
+5-16	671-679	syndrome	RADLEX[27]	
+5-17	680-681	.	_	
+
+#Text=Enchondromatosis is a rare , nonheriditary disorder .
+6-1	682-698	Enchondromatosis	_	
+6-2	699-701	is	_	
+6-3	702-703	a	_	
+6-4	704-708	rare	_	
+6-5	709-710	,	_	
+6-6	711-724	nonheriditary	_	
+6-7	725-733	disorder	_	
+6-8	734-735	.	_	
+
+#Text=Enchondromas are usually solitary , located in the metaphyseal region of tubular bones , and the favored sites are the short tubular bones of the hands and feet .
+7-1	736-748	Enchondromas	_	
+7-2	749-752	are	_	
+7-3	753-760	usually	_	
+7-4	761-769	solitary	_	
+7-5	770-771	,	_	
+7-6	772-779	located	_	
+7-7	780-782	in	_	
+7-8	783-786	the	_	
+7-9	787-798	metaphyseal	_	
+7-10	799-805	region	_	
+7-11	806-808	of	_	
+7-12	809-816	tubular	*[28]	
+7-13	817-822	bones	*[28]	
+7-14	823-824	,	_	
+7-15	825-828	and	_	
+7-16	829-832	the	_	
+7-17	833-840	favored	_	
+7-18	841-846	sites	_	
+7-19	847-850	are	_	
+7-20	851-854	the	_	
+7-21	855-860	short	_	
+7-22	861-868	tubular	*[29]	
+7-23	869-874	bones	*[29]	
+7-24	875-877	of	_	
+7-25	878-881	the	_	
+7-26	882-887	hands	_	
+7-27	888-891	and	_	
+7-28	892-896	feet	_	
+7-29	897-898	.	_	
+
+#Text=Chondromas are thought to develop from rests of growth plate cartilage that subsequently proliferate and slowly enlarge .
+8-1	899-909	Chondromas	_	
+8-2	910-913	are	_	
+8-3	914-921	thought	_	
+8-4	922-924	to	_	
+8-5	925-932	develop	_	
+8-6	933-937	from	_	
+8-7	938-943	rests	_	
+8-8	944-946	of	_	
+8-9	947-953	growth	RADLEX[30]	
+8-10	954-959	plate	RADLEX[30]	
+8-11	960-969	cartilage	RADLEX	
+8-12	970-974	that	_	
+8-13	975-987	subsequently	_	
+8-14	988-999	proliferate	_	
+8-15	1000-1003	and	_	
+8-16	1004-1010	slowly	_	
+8-17	1011-1018	enlarge	_	
+8-18	1019-1020	.	_	
+
+#Text=Based on this theory , it is not surprising that these tumors arise mainly in bones that develop from enchondral ossification .
+9-1	1021-1026	Based	_	
+9-2	1027-1029	on	_	
+9-3	1030-1034	this	_	
+9-4	1035-1041	theory	_	
+9-5	1042-1043	,	_	
+9-6	1044-1046	it	_	
+9-7	1047-1049	is	_	
+9-8	1050-1053	not	_	
+9-9	1054-1064	surprising	_	
+9-10	1065-1069	that	_	
+9-11	1070-1075	these	_	
+9-12	1076-1082	tumors	_	
+9-13	1083-1088	arise	_	
+9-14	1089-1095	mainly	_	
+9-15	1096-1098	in	_	
+9-16	1099-1104	bones	RADLEX	
+9-17	1105-1109	that	_	
+9-18	1110-1117	develop	_	
+9-19	1118-1122	from	_	
+9-20	1123-1133	enchondral	*[33]	
+9-21	1134-1146	ossification	*[33]	
+9-22	1147-1148	.	_	
+
+#Text=References Kirks , DR .
+10-1	1149-1159	References	_	
+10-2	1160-1165	Kirks	_	
+10-3	1166-1167	,	_	
+10-4	1168-1170	DR	_	
+10-5	1171-1172	.	_	
+
+#Text=PRACTICAL PEDIATRIC RADIOLOGY , 3rd Ed , Lipincott : New York , 1998 , 358 - 9 .
+11-1	1173-1182	PRACTICAL	_	
+11-2	1183-1192	PEDIATRIC	RADLEX	
+11-3	1193-1202	RADIOLOGY	_	
+11-4	1203-1204	,	_	
+11-5	1205-1208	3rd	_	
+11-6	1209-1211	Ed	_	
+11-7	1212-1213	,	_	
+11-8	1214-1223	Lipincott	_	
+11-9	1224-1225	:	_	
+11-10	1226-1229	New	RADLEX	
+11-11	1230-1234	York	_	
+11-12	1235-1236	,	_	
+11-13	1237-1241	1998	_	
+11-14	1242-1243	,	_	
+11-15	1244-1247	358	_	
+11-16	1248-1249	-	_	
+11-17	1250-1251	9	_	
+11-18	1252-1253	.	_	
+
+#Text=1 image 
+12-1	1254-1255	1	_	
+12-2	1256-1261	image	_	

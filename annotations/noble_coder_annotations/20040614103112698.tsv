@@ -1,0 +1,224 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=        Appendicitis Olya Polishchuk Mary Wyers, M.D.Children's Memorial Hospital  Abstract 4 year old male with low-grade fever and abdominal pain Keywords  appendicitis, appendix, abdominal pain, CT   			Publication Date: 2004-06-14                History 4 year old male with low-grade fever and abdominal pain   Findings CT: In the right lower quadrant there is a tubular structure originating from the cecum which is enlarged consistant with an inflamed appendix.
+1-1	Appendicitis	B-RADLEX
+1-2	Olya	O
+1-3	Polishchuk	O
+1-4	Mary	O
+1-5	Wyers	O
+1-6	,	O
+1-7	M	O
+1-8	.	O
+1-9	D	O
+1-10	.	O
+1-11	Children	O
+1-12	'	O
+1-13	s	O
+1-14	Memorial	O
+1-15	Hospital	O
+1-16	Abstract	O
+1-17	4	O
+1-18	year	O
+1-19	old	B-RADLEX
+1-20	male	B-RADLEX
+1-21	with	O
+1-22	low	B-RADLEX|B-RADLEX
+1-23	-	I-RADLEX
+1-24	grade	I-RADLEX
+1-25	fever	B-RADLEX
+1-26	and	O
+1-27	abdominal	O
+1-28	pain	B-RADLEX
+1-29	Keywords	O
+1-30	appendicitis	B-RADLEX
+1-31	,	O
+1-32	appendix	B-RADLEX
+1-33	,	O
+1-34	abdominal	O
+1-35	pain	B-RADLEX
+1-36	,	O
+1-37	CT	B-RADLEX
+1-38	Publication	O
+1-39	Date	O
+1-40	:	O
+1-41	2004	O
+1-42	-	O
+1-43	06	O
+1-44	-	O
+1-45	14	O
+1-46	History	O
+1-47	4	O
+1-48	year	O
+1-49	old	B-RADLEX
+1-50	male	B-RADLEX
+1-51	with	O
+1-52	low	B-RADLEX|B-RADLEX
+1-53	-	I-RADLEX
+1-54	grade	I-RADLEX
+1-55	fever	B-RADLEX
+1-56	and	O
+1-57	abdominal	O
+1-58	pain	B-RADLEX
+1-59	Findings	O
+1-60	CT	B-RADLEX
+1-61	:	O
+1-62	In	O
+1-63	the	O
+1-64	right	B-RADLEX
+1-65	lower	B-RADLEX
+1-66	quadrant	B-RADLEX
+1-67	there	O
+1-68	is	O
+1-69	a	O
+1-70	tubular	B-RADLEX|B-RADLEX
+1-71	structure	I-RADLEX|B-RADLEX
+1-72	originating	O
+1-73	from	O
+1-74	the	O
+1-75	cecum	B-RADLEX
+1-76	which	O
+1-77	is	O
+1-78	enlarged	B-RADLEX
+1-79	consistant	O
+1-80	with	O
+1-81	an	O
+1-82	inflamed	B-RADLEX
+1-83	appendix	B-RADLEX
+1-84	.	O
+
+#id=2
+#text=Additionally, there is a 5 mm high density appendicolith.
+2-1	Additionally	O
+2-2	,	O
+2-3	there	O
+2-4	is	O
+2-5	a	O
+2-6	5	O
+2-7	mm	O
+2-8	high	B-RADLEX|B-RADLEX
+2-9	density	I-RADLEX|B-RADLEX
+2-10	appendicolith	B-RADLEX
+2-11	.	O
+
+#id=3
+#text=   Diagnosis  Appendicitis    Differential None   Discussion  Appendicitis in children can be diagnosed with an ultrasound or CT.
+3-1	Diagnosis	B-RADLEX
+3-2	Appendicitis	B-RADLEX
+3-3	Differential	O
+3-4	None	B-RADLEX
+3-5	Discussion	O
+3-6	Appendicitis	B-RADLEX
+3-7	in	O
+3-8	children	O
+3-9	can	O
+3-10	be	O
+3-11	diagnosed	O
+3-12	with	O
+3-13	an	O
+3-14	ultrasound	B-RADLEX
+3-15	or	O
+3-16	CT	B-RADLEX
+3-17	.	O
+
+#id=4
+#text=CT is useful in larger patients or when alternative diagnosis are being considered.
+4-1	CT	B-RADLEX
+4-2	is	O
+4-3	useful	O
+4-4	in	O
+4-5	larger	O
+4-6	patients	B-RADLEX
+4-7	or	O
+4-8	when	O
+4-9	alternative	O
+4-10	diagnosis	B-RADLEX
+4-11	are	O
+4-12	being	O
+4-13	considered	O
+4-14	.	O
+
+#id=5
+#text=An appendix larger than 6 mm, nonfilling with oral or rectal contrast, appendicolith, and surrounding soft tissue stranding are all findings suggestive of appendicitis.
+5-1	An	O
+5-2	appendix	B-RADLEX
+5-3	larger	O
+5-4	than	O
+5-5	6	O
+5-6	mm	O
+5-7	,	O
+5-8	nonfilling	O
+5-9	with	O
+5-10	oral	B-RADLEX
+5-11	or	O
+5-12	rectal	B-RADLEX|B-RADLEX
+5-13	contrast	I-RADLEX
+5-14	,	O
+5-15	appendicolith	B-RADLEX
+5-16	,	O
+5-17	and	O
+5-18	surrounding	O
+5-19	soft	B-RADLEX|B-RADLEX
+5-20	tissue	I-RADLEX|B-RADLEX
+5-21	stranding	O
+5-22	are	O
+5-23	all	B-RADLEX
+5-24	findings	O
+5-25	suggestive	B-RADLEX
+5-26	of	O
+5-27	appendicitis	B-RADLEX
+5-28	.	O
+
+#id=6
+#text=CT is also useful for evaluation of perforated appendicitis or adjacent abscesses.
+6-1	CT	B-RADLEX
+6-2	is	O
+6-3	also	O
+6-4	useful	O
+6-5	for	O
+6-6	evaluation	O
+6-7	of	O
+6-8	perforated	O
+6-9	appendicitis	B-RADLEX
+6-10	or	O
+6-11	adjacent	B-RADLEX
+6-12	abscesses	B-RADLEX
+6-13	.	O
+
+#id=7
+#text=  References  Swischuk, L.
+7-1	References	O
+7-2	Swischuk	O
+7-3	,	O
+7-4	L	O
+7-5	.	O
+
+#id=8
+#text=E., EMERGENCY IMAGING OF THE ACUTELY ILL OR INJURED CHILD, Lippincott Williams and Wilkins, 2000, 177-193.
+8-1	E	O
+8-2	.,	O
+8-3	EMERGENCY	O
+8-4	IMAGING	O
+8-5	OF	O
+8-6	THE	O
+8-7	ACUTELY	O
+8-8	ILL	O
+8-9	OR	O
+8-10	INJURED	O
+8-11	CHILD	B-RADLEX
+8-12	,	O
+8-13	Lippincott	O
+8-14	Williams	O
+8-15	and	O
+8-16	Wilkins	O
+8-17	,	O
+8-18	2000	O
+8-19	,	O
+8-20	177	O
+8-21	-	O
+8-22	193	O
+8-23	.	O
+
+#id=9
+#text=     2 images         					  					 					  					        .
+9-1	2	O
+9-2	images	O

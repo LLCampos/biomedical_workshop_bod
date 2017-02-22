@@ -1,0 +1,419 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=        Diaphragmatic hernia Olya Polishchuk Mary Wyers, M.D.Children's Memorial Hospital  Abstract  Newborn with respiratory distress.
+1-1	Diaphragmatic	B-RADLEX
+1-2	hernia	I-RADLEX|B-RADLEX
+1-3	Olya	O
+1-4	Polishchuk	O
+1-5	Mary	O
+1-6	Wyers	O
+1-7	,	O
+1-8	M	O
+1-9	.	O
+1-10	D	O
+1-11	.	O
+1-12	Children	O
+1-13	'	O
+1-14	s	O
+1-15	Memorial	O
+1-16	Hospital	O
+1-17	Abstract	O
+1-18	Newborn	B-RADLEX
+1-19	with	O
+1-20	respiratory	B-RADLEX
+1-21	distress	O
+1-22	.	O
+
+#id=2
+#text=Keywords  diaphragmatic hernia, hernia, plain film   			Publication Date: 2004-06-14                History  Newborn with respiratory distress.
+2-1	Keywords	O
+2-2	diaphragmatic	B-RADLEX
+2-3	hernia	O
+2-4	,	O
+2-5	hernia	B-RADLEX
+2-6	,	O
+2-7	plain	O
+2-8	film	O
+2-9	Publication	O
+2-10	Date	O
+2-11	:	O
+2-12	2004	O
+2-13	-	O
+2-14	06	O
+2-15	-	O
+2-16	14	O
+2-17	History	O
+2-18	Newborn	B-RADLEX
+2-19	with	O
+2-20	respiratory	B-RADLEX
+2-21	distress	O
+2-22	.	O
+
+#id=3
+#text=  Findings 3/23/04 - Air-filled structures in the thorax are consistant with herniated loops of bowel.
+3-1	Findings	O
+3-2	3	O
+3-3	/	O
+3-4	23	O
+3-5	/	O
+3-6	04	O
+3-7	-	O
+3-8	Air	O
+3-9	-	O
+3-10	filled	O
+3-11	structures	B-RADLEX
+3-12	in	O
+3-13	the	O
+3-14	thorax	B-RADLEX
+3-15	are	O
+3-16	consistant	O
+3-17	with	O
+3-18	herniated	O
+3-19	loops	O
+3-20	of	O
+3-21	bowel	B-RADLEX
+3-22	.	O
+
+#id=4
+#text=Nasogastric tube loops into left hemithorax indicating herniated stomach.
+4-1	Nasogastric	B-RADLEX|B-RADLEX
+4-2	tube	I-RADLEX|B-RADLEX
+4-3	loops	O
+4-4	into	O
+4-5	left	B-RADLEX|B-RADLEX
+4-6	hemithorax	I-RADLEX|B-RADLEX
+4-7	indicating	O
+4-8	herniated	O
+4-9	stomach	B-RADLEX
+4-10	.	O
+
+#id=5
+#text=Mediastinum is shifted to the right.
+5-1	Mediastinum	B-RADLEX
+5-2	is	O
+5-3	shifted	B-RADLEX
+5-4	to	O
+5-5	the	O
+5-6	right	B-RADLEX
+5-7	.	O
+
+#id=6
+#text= 5/21/04 - Postoperative babygram.
+6-1	5	O
+6-2	/	O
+6-3	21	O
+6-4	/	O
+6-5	04	O
+6-6	-	O
+6-7	Postoperative	B-RADLEX
+6-8	babygram	B-RADLEX
+6-9	.	O
+
+#id=7
+#text=Loops of bowel are positioned in the abdomen.
+7-1	Loops	O
+7-2	of	O
+7-3	bowel	B-RADLEX
+7-4	are	O
+7-5	positioned	O
+7-6	in	O
+7-7	the	O
+7-8	abdomen	B-RADLEX
+7-9	.	O
+
+#id=8
+#text=Mediastinum is now in the correct location.
+8-1	Mediastinum	B-RADLEX
+8-2	is	O
+8-3	now	O
+8-4	in	O
+8-5	the	O
+8-6	correct	O
+8-7	location	B-RADLEX
+8-8	.	O
+
+#id=9
+#text=Left diaphragm is slightly elevated.
+9-1	Left	B-RADLEX
+9-2	diaphragm	B-RADLEX
+9-3	is	O
+9-4	slightly	O
+9-5	elevated	B-RADLEX|B-RADLEX
+9-6	.	O
+
+#id=10
+#text=Both lungs are aerated.
+10-1	Both	B-RADLEX
+10-2	lungs	B-RADLEX|B-RADLEX
+10-3	are	O
+10-4	aerated	B-RADLEX
+10-5	.	O
+
+#id=11
+#text=   Diagnosis  Diaphragmatic hernia    Differential Diaphragmatic eventration, congenital cystic adenomatoid malformation,   Discussion The two major types of defects in the diaphragm that can result in diaphragmatic hernia (DH) are: hernia through foramen of Bochdalek (posterolateral), hernia through foramen of Morgagni (anterior).
+11-1	Diagnosis	B-RADLEX
+11-2	Diaphragmatic	B-RADLEX
+11-3	hernia	I-RADLEX|B-RADLEX
+11-4	Differential	O
+11-5	Diaphragmatic	O
+11-6	eventration	B-RADLEX
+11-7	,	O
+11-8	congenital	B-RADLEX
+11-9	cystic	B-RADLEX
+11-10	adenomatoid	O
+11-11	malformation	O
+11-12	,	O
+11-13	Discussion	O
+11-14	The	O
+11-15	two	O
+11-16	major	B-RADLEX
+11-17	types	O
+11-18	of	O
+11-19	defects	O
+11-20	in	O
+11-21	the	O
+11-22	diaphragm	B-RADLEX
+11-23	that	O
+11-24	can	O
+11-25	result	O
+11-26	in	O
+11-27	diaphragmatic	B-RADLEX
+11-28	hernia	I-RADLEX|B-RADLEX|B-RADLEX|B-RADLEX
+11-29	(	I-RADLEX|I-RADLEX|I-RADLEX
+11-30	DH	I-RADLEX|I-RADLEX|I-RADLEX
+11-31	)	I-RADLEX|I-RADLEX
+11-32	are	I-RADLEX|I-RADLEX
+11-33	:	I-RADLEX|I-RADLEX
+11-34	hernia	I-RADLEX|I-RADLEX|B-RADLEX
+11-35	through	I-RADLEX|I-RADLEX
+11-36	foramen	I-RADLEX|I-RADLEX|B-RADLEX|B-RADLEX
+11-37	of	I-RADLEX|I-RADLEX|I-RADLEX
+11-38	Bochdalek	I-RADLEX|I-RADLEX|I-RADLEX
+11-39	(	I-RADLEX|I-RADLEX|I-RADLEX
+11-40	posterolateral	I-RADLEX|I-RADLEX|I-RADLEX|B-RADLEX
+11-41	),	I-RADLEX|I-RADLEX|I-RADLEX
+11-42	hernia	I-RADLEX|I-RADLEX|I-RADLEX|B-RADLEX
+11-43	through	I-RADLEX|I-RADLEX|I-RADLEX
+11-44	foramen	I-RADLEX|I-RADLEX|I-RADLEX|B-RADLEX
+11-45	of	I-RADLEX|I-RADLEX
+11-46	Morgagni	I-RADLEX|I-RADLEX
+11-47	(	O
+11-48	anterior	B-RADLEX
+11-49	).	O
+
+#id=12
+#text=Most common herniation of abdominal contents occurs through foramen of Bochdalek.
+12-1	Most	O
+12-2	common	O
+12-3	herniation	B-RADLEX
+12-4	of	O
+12-5	abdominal	O
+12-6	contents	B-RADLEX
+12-7	occurs	O
+12-8	through	O
+12-9	foramen	B-RADLEX
+12-10	of	O
+12-11	Bochdalek	O
+12-12	.	O
+
+#id=13
+#text=The small intestine is herniated 90% of the cases and the colon and stomach in greater than 50%.
+13-1	The	O
+13-2	small	B-RADLEX|B-RADLEX
+13-3	intestine	I-RADLEX|B-RADLEX
+13-4	is	O
+13-5	herniated	O
+13-6	90	O
+13-7	%	O
+13-8	of	O
+13-9	the	O
+13-10	cases	O
+13-11	and	O
+13-12	the	O
+13-13	colon	B-RADLEX
+13-14	and	O
+13-15	stomach	B-RADLEX
+13-16	in	O
+13-17	greater	O
+13-18	than	O
+13-19	50	O
+13-20	%.	O
+
+#id=14
+#text=80% of Bochdalek hernias are on the left, and 20% are on the right.
+14-1	80	O
+14-2	%	O
+14-3	of	O
+14-4	Bochdalek	O
+14-5	hernias	B-RADLEX
+14-6	are	O
+14-7	on	O
+14-8	the	O
+14-9	left	B-RADLEX
+14-10	,	O
+14-11	and	O
+14-12	20	O
+14-13	%	O
+14-14	are	O
+14-15	on	O
+14-16	the	O
+14-17	right	B-RADLEX
+14-18	.	O
+
+#id=15
+#text=Morgagni hernias are more common on the right.
+15-1	Morgagni	B-RADLEX
+15-2	hernias	I-RADLEX|B-RADLEX
+15-3	are	O
+15-4	more	O
+15-5	common	O
+15-6	on	O
+15-7	the	O
+15-8	right	B-RADLEX
+15-9	.	O
+
+#id=16
+#text=The neonate with DH will present with symptoms varying from tachypnea to acute respiratory distress.
+16-1	The	O
+16-2	neonate	B-RADLEX
+16-3	with	O
+16-4	DH	B-RADLEX
+16-5	will	O
+16-6	present	B-RADLEX
+16-7	with	O
+16-8	symptoms	B-RADLEX
+16-9	varying	O
+16-10	from	O
+16-11	tachypnea	O
+16-12	to	O
+16-13	acute	B-RADLEX
+16-14	respiratory	B-RADLEX
+16-15	distress	O
+16-16	.	O
+
+#id=17
+#text=The treatment is surgical, and there is controversy over the appropriate timing of surgery.
+17-1	The	O
+17-2	treatment	B-RADLEX
+17-3	is	O
+17-4	surgical	O
+17-5	,	O
+17-6	and	O
+17-7	there	O
+17-8	is	O
+17-9	controversy	O
+17-10	over	O
+17-11	the	O
+17-12	appropriate	O
+17-13	timing	O
+17-14	of	O
+17-15	surgery	B-RADLEX
+17-16	.	O
+
+#id=18
+#text=The high morbidity and mortality is associated not only with pulmonary hypoplasia secondary to the mass effect, but also to severe pulmonary hypertension which results.
+18-1	The	O
+18-2	high	B-RADLEX
+18-3	morbidity	B-RADLEX
+18-4	and	O
+18-5	mortality	O
+18-6	is	O
+18-7	associated	O
+18-8	not	O
+18-9	only	O
+18-10	with	O
+18-11	pulmonary	O
+18-12	hypoplasia	O
+18-13	secondary	O
+18-14	to	O
+18-15	the	O
+18-16	mass	B-RADLEX
+18-17	effect	O
+18-18	,	O
+18-19	but	O
+18-20	also	O
+18-21	to	O
+18-22	severe	B-RADLEX
+18-23	pulmonary	B-RADLEX
+18-24	hypertension	I-RADLEX|B-RADLEX
+18-25	which	O
+18-26	results	O
+18-27	.	O
+
+#id=19
+#text=Many of these patients require ECMO in the first few weeks of life.
+19-1	Many	O
+19-2	of	O
+19-3	these	O
+19-4	patients	B-RADLEX
+19-5	require	O
+19-6	ECMO	O
+19-7	in	O
+19-8	the	O
+19-9	first	B-RADLEX
+19-10	few	B-RADLEX
+19-11	weeks	O
+19-12	of	O
+19-13	life	O
+19-14	.	O
+
+#id=20
+#text=DH is commonly associated with cardiac, genitourinary, neural tube development defects.
+20-1	DH	B-RADLEX
+20-2	is	O
+20-3	commonly	O
+20-4	associated	O
+20-5	with	O
+20-6	cardiac	O
+20-7	,	O
+20-8	genitourinary	O
+20-9	,	O
+20-10	neural	O
+20-11	tube	B-RADLEX
+20-12	development	O
+20-13	defects	O
+20-14	.	O
+
+#id=21
+#text=  References  Kuhn, J.P., Slovis, T.L., Haller, J.O., CAFFEY'S PEDIATRIC DIAGNOSTIC IMAGING, Elsevier, Inc., 2004, 58-63.
+21-1	References	O
+21-2	Kuhn	O
+21-3	,	O
+21-4	J	O
+21-5	.	O
+21-6	P	O
+21-7	.,	O
+21-8	Slovis	O
+21-9	,	O
+21-10	T	O
+21-11	.	O
+21-12	L	O
+21-13	.,	O
+21-14	Haller	O
+21-15	,	O
+21-16	J	O
+21-17	.	O
+21-18	O	O
+21-19	.,	O
+21-20	CAFFEY	O
+21-21	'	O
+21-22	S	O
+21-23	PEDIATRIC	B-RADLEX
+21-24	DIAGNOSTIC	B-RADLEX|B-RADLEX
+21-25	IMAGING	I-RADLEX
+21-26	,	O
+21-27	Elsevier	O
+21-28	,	O
+21-29	Inc	O
+21-30	.,	O
+21-31	2004	O
+21-32	,	O
+21-33	58	O
+21-34	-	O
+21-35	63	O
+21-36	.	O
+
+#id=22
+#text=     2 images         					  					 					  					        .
+22-1	2	O
+22-2	images	O
