@@ -1,17 +1,13 @@
 # BOD 2017 Workshop
 
-Before: 
+## Before: 
 
 - [ ] Open http://bioportal.bioontology.org/ontologies/RADLEX/?p=classes
 - [ ] Open http://bioportal.bioontology.org/annotator with "I have a fracture in my leg bone.”
 - [ ] Open http://bioportal.bioontology.org/annotator with "I have two fractures in my legs bones.”
 - [ ] Open http://www.lasige.di.fc.ul.pt/webtools/webanno3/login.html?0
 
-[Introduction]
-
-[André's talk]
-
-## RadLex section of the talk  
+## Talk
 
 Now, as an introduction to the practical activity you’re going to do next and as an example of one application of Text Mining in the real world, we’re going to talk a little about Text Mining applied to Radiology Reports.
 
@@ -31,7 +27,7 @@ This is just an example. One task which is usually necessary to be done to use o
 
 [[Start demo in Bioportal](http://bioportal.bioontology.org/annotator)]
 
-(annotate “I have a fracture in my leg bone.”) 
+(annotate “I have a fracture in my leg bone.” with RadLex) 
 
 So, in this sentence, we have mentions of three terms from Radlex. We can say we have just annotated this sentence. 
 
@@ -41,7 +37,7 @@ So, annotation can an important task for the purposes of take useful information
 
 [[Start demo in Bioportal](http://bioportal.bioontology.org/annotator)]
 
-(annotate “I have two fractures in my legs bones.”)
+(annotate “I have two fractures in my legs bones.” with RadLex)
 
 Oh, now we only have one annotation. This annotator doesn’t consider lexical variations of the words, so it doesn’t consider “legs” a mention of the RadLex term “leg”. I had this problem during the work I’m doing in my master thesis and after some research I’ve found this nice tool named NOBLE Coder that claims to solve the problem. But this tool is not tested for RadLex terms. Today we’re going to test this tool. Usually, to test this kind of tools we compare the annotations done by the tool with annotations done by some experts in the field at hand. You are going to be our experts this evening. 
 
@@ -65,21 +61,3 @@ Beyond comparing your aggregated annotations with the annotations from a automat
 So let's start?
 
 [Start of activity]
-
-[End activity]
-
-(5 min pause so we setup the results) 
-
-- [ ] Download project
-- [ ] Calculate kappa
-- [ ] Aggreagte annotations
-- [ ] Check who are the winners
-- [ ] Compare Noble with aggregated annotations
-
-(show agreement table)
-
-Alright, so this is the agreement table. Each value is one Cohen's kappa value, a measure of interannotator agreement. The higher the value, the more closer the annotations between the users. 
-
-(comment results) 
-
-...
