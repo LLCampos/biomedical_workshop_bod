@@ -1,5 +1,7 @@
 # BOD 2017 Workshop
 
+[Slides](https://docs.google.com/presentation/d/1IZT9Id8UJp1rUrIPWmLbAtNW037A2umVSSY3WCeAXjU/edit?usp=sharing)
+
 ## Before: 
 
 - [ ] Open http://bioportal.bioontology.org/ontologies/RADLEX/?p=classes
